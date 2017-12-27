@@ -1,0 +1,11032 @@
+[{
+	"id": 1,
+	"country": "中国",
+	"provinceName": "北京",
+	"cityName": "北京",
+	"cityCode": "0101"
+},
+{
+	"id": 2,
+	"country": "中国",
+	"provinceName": "上海",
+	"cityName": "上海",
+	"cityCode": "0201"
+},
+{
+	"id": 3,
+	"country": "中国",
+	"provinceName": "天津",
+	"cityName": "天津",
+	"cityCode": "0301"
+},
+{
+	"id": 4,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "重庆",
+	"cityCode": "0401"
+},
+{
+	"id": 5,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "万州（重庆）",
+	"cityCode": "0402"
+},
+{
+	"id": 6,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "丰都（重庆）",
+	"cityCode": "0403"
+},
+{
+	"id": 7,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "涪陵（重庆）",
+	"cityCode": "0404"
+},
+{
+	"id": 8,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "垫江（重庆）",
+	"cityCode": "0405"
+},
+{
+	"id": 9,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "武隆（重庆）",
+	"cityCode": "0406"
+},
+{
+	"id": 10,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "璧山（重庆）",
+	"cityCode": "0407"
+},
+{
+	"id": 11,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "大足（重庆）",
+	"cityCode": "0408"
+},
+{
+	"id": 12,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "合川（重庆）",
+	"cityCode": "0409"
+},
+{
+	"id": 13,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "永川（重庆）",
+	"cityCode": "0410"
+},
+{
+	"id": 14,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "南川（重庆）",
+	"cityCode": "0411"
+},
+{
+	"id": 15,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "荣昌（重庆）",
+	"cityCode": "0412"
+},
+{
+	"id": 16,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "铜梁（重庆）",
+	"cityCode": "0413"
+},
+{
+	"id": 17,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "綦江（重庆）",
+	"cityCode": "0414"
+},
+{
+	"id": 18,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "江津（重庆）",
+	"cityCode": "0415"
+},
+{
+	"id": 19,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "彭水（重庆）",
+	"cityCode": "0416"
+},
+{
+	"id": 20,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "黔江（重庆）",
+	"cityCode": "0417"
+},
+{
+	"id": 21,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "长寿（重庆）",
+	"cityCode": "0418"
+},
+{
+	"id": 22,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "酉阳（重庆）",
+	"cityCode": "0419"
+},
+{
+	"id": 23,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "秀山（重庆）",
+	"cityCode": "0420"
+},
+{
+	"id": 24,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "万盛（重庆）",
+	"cityCode": "0421"
+},
+{
+	"id": 25,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "云阳（重庆）",
+	"cityCode": "0422"
+},
+{
+	"id": 26,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "石柱（重庆）",
+	"cityCode": "0423"
+},
+{
+	"id": 27,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "开县（重庆）",
+	"cityCode": "0424"
+},
+{
+	"id": 28,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "巫山（重庆）",
+	"cityCode": "0425"
+},
+{
+	"id": 29,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "巫溪（重庆）",
+	"cityCode": "0426"
+},
+{
+	"id": 30,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "奉节（重庆）",
+	"cityCode": "0427"
+},
+{
+	"id": 31,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "潼南（重庆）",
+	"cityCode": "0428"
+},
+{
+	"id": 32,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "忠县（重庆）",
+	"cityCode": "0429"
+},
+{
+	"id": 33,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "梁平（重庆）",
+	"cityCode": "0430"
+},
+{
+	"id": 34,
+	"country": "中国",
+	"provinceName": "重庆",
+	"cityName": "城口（重庆）",
+	"cityCode": "0431"
+},
+{
+	"id": 35,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "石家庄",
+	"cityCode": "0501"
+},
+{
+	"id": 36,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "承德",
+	"cityCode": "0502"
+},
+{
+	"id": 37,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "秦皇岛",
+	"cityCode": "0503"
+},
+{
+	"id": 38,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "南戴河（秦皇岛）",
+	"cityCode": "0504"
+},
+{
+	"id": 39,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "邢台",
+	"cityCode": "0505"
+},
+{
+	"id": 40,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "唐山",
+	"cityCode": "0506"
+},
+{
+	"id": 41,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "坝上",
+	"cityCode": "0507"
+},
+{
+	"id": 42,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "北戴河（秦皇岛）",
+	"cityCode": "0508"
+},
+{
+	"id": 43,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "涞源（保定）",
+	"cityCode": "0509"
+},
+{
+	"id": 44,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "怀来（张家口）",
+	"cityCode": "0510"
+},
+{
+	"id": 45,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "廊坊",
+	"cityCode": "0511"
+},
+{
+	"id": 46,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "保定",
+	"cityCode": "0512"
+},
+{
+	"id": 47,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "张家口",
+	"cityCode": "0513"
+},
+{
+	"id": 48,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "衡水",
+	"cityCode": "0514"
+},
+{
+	"id": 49,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "邯郸",
+	"cityCode": "0515"
+},
+{
+	"id": 50,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "沧州",
+	"cityCode": "0516"
+},
+{
+	"id": 51,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "任丘（沧州）",
+	"cityCode": "0517"
+},
+{
+	"id": 52,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "涿州（保定）",
+	"cityCode": "0518"
+},
+{
+	"id": 53,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "正定（石家庄）",
+	"cityCode": "0519"
+},
+{
+	"id": 54,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "霸州（廊坊）",
+	"cityCode": "0523"
+},
+{
+	"id": 55,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "丰宁满族自治县（承德）",
+	"cityCode": "0525"
+},
+{
+	"id": 56,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "迁安（唐山）",
+	"cityCode": "0526"
+},
+{
+	"id": 57,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "安国（保定）",
+	"cityCode": "0527"
+},
+{
+	"id": 58,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "高碑店（保定）",
+	"cityCode": "0528"
+},
+{
+	"id": 59,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "涞水（保定）",
+	"cityCode": "0530"
+},
+{
+	"id": 60,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "涿鹿（张家口）",
+	"cityCode": "0531"
+},
+{
+	"id": 61,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "武安（邯郸）",
+	"cityCode": "0532"
+},
+{
+	"id": 62,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "三河（廊坊）",
+	"cityCode": "0533"
+},
+{
+	"id": 63,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "野三坡（保定）",
+	"cityCode": "0535"
+},
+{
+	"id": 64,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "昌黎（秦皇岛）",
+	"cityCode": "0536"
+},
+{
+	"id": 65,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "玉泉山（邢台）",
+	"cityCode": "0537"
+},
+{
+	"id": 66,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "高阳（保定）",
+	"cityCode": "0538"
+},
+{
+	"id": 67,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "唐海（唐山）",
+	"cityCode": "0539"
+},
+{
+	"id": 68,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "遵化（唐山）",
+	"cityCode": "0540"
+},
+{
+	"id": 69,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "白洋淀（保定）",
+	"cityCode": "0541"
+},
+{
+	"id": 70,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "藁城（石家庄）",
+	"cityCode": "0542"
+},
+{
+	"id": 71,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "乐亭（唐山）",
+	"cityCode": "0543"
+},
+{
+	"id": 72,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "宣化（张家口）",
+	"cityCode": "0545"
+},
+{
+	"id": 73,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "宽城满族自治县（承德）",
+	"cityCode": "0546"
+},
+{
+	"id": 74,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "唐县（保定）",
+	"cityCode": "0547"
+},
+{
+	"id": 75,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "盐山（沧州）",
+	"cityCode": "0548"
+},
+{
+	"id": 76,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "肃宁（沧州）",
+	"cityCode": "0549"
+},
+{
+	"id": 77,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "泊头（沧州）",
+	"cityCode": "0550"
+},
+{
+	"id": 78,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "平山（石家庄）",
+	"cityCode": "0551"
+},
+{
+	"id": 79,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "崇礼（张家口）",
+	"cityCode": "0552"
+},
+{
+	"id": 80,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "蔚县（张家口）",
+	"cityCode": "0553"
+},
+{
+	"id": 81,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "鹿泉（石家庄）",
+	"cityCode": "0554"
+},
+{
+	"id": 82,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "黄骅（沧州）",
+	"cityCode": "0555"
+},
+{
+	"id": 83,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "定州（保定）",
+	"cityCode": "0556"
+},
+{
+	"id": 84,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "香河（廊坊）",
+	"cityCode": "0557"
+},
+{
+	"id": 85,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "徐水（保定）",
+	"cityCode": "0558"
+},
+{
+	"id": 86,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "白沟（高碑店）",
+	"cityCode": "0559"
+},
+{
+	"id": 87,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "河间（沧州）",
+	"cityCode": "0560"
+},
+{
+	"id": 88,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "辛集（石家庄）",
+	"cityCode": "0561"
+},
+{
+	"id": 89,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "晋州（石家庄）",
+	"cityCode": "0562"
+},
+{
+	"id": 90,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "阜平县（保定）",
+	"cityCode": "0564"
+},
+{
+	"id": 91,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "安平（衡水）",
+	"cityCode": "0565"
+},
+{
+	"id": 92,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "新乐（石家庄）",
+	"cityCode": "0566"
+},
+{
+	"id": 93,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "永清（廊坊）",
+	"cityCode": "0567"
+},
+{
+	"id": 94,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "永年（邯郸）",
+	"cityCode": "0568"
+},
+{
+	"id": 95,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "赵县（石家庄）",
+	"cityCode": "0569"
+},
+{
+	"id": 96,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "阜城（衡水）",
+	"cityCode": "0570"
+},
+{
+	"id": 97,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "迁西（唐山）",
+	"cityCode": "0571"
+},
+{
+	"id": 98,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "固安（廊坊）",
+	"cityCode": "0572"
+},
+{
+	"id": 99,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "张北（张家口）",
+	"cityCode": "0573"
+},
+{
+	"id": 100,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "冀州（衡水）",
+	"cityCode": "0574"
+},
+{
+	"id": 101,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "文安（廊坊）",
+	"cityCode": "0575"
+},
+{
+	"id": 102,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "满城（保定）",
+	"cityCode": "0576"
+},
+{
+	"id": 103,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "景县（衡水）",
+	"cityCode": "0577"
+},
+{
+	"id": 104,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "沙河（邢台）",
+	"cityCode": "0578"
+},
+{
+	"id": 105,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "清河（邢台）",
+	"cityCode": "0579"
+},
+{
+	"id": 106,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "无极（石家庄）",
+	"cityCode": "0580"
+},
+{
+	"id": 107,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "曲周（邯郸）",
+	"cityCode": "0581"
+},
+{
+	"id": 108,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "青龙（秦皇岛）",
+	"cityCode": "0582"
+},
+{
+	"id": 109,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "涉县（邯郸）",
+	"cityCode": "0584"
+},
+{
+	"id": 110,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "安新（保定）",
+	"cityCode": "0585"
+},
+{
+	"id": 111,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "曲阳（保定）",
+	"cityCode": "0586"
+},
+{
+	"id": 112,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "雄县（保定）",
+	"cityCode": "0587"
+},
+{
+	"id": 113,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "滦县（唐山）",
+	"cityCode": "0588"
+},
+{
+	"id": 114,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "兴隆（承德）",
+	"cityCode": "0589"
+},
+{
+	"id": 115,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "玉田（唐山）",
+	"cityCode": "0590"
+},
+{
+	"id": 116,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "大厂（廊坊）",
+	"cityCode": "0591"
+},
+{
+	"id": 117,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "尚义（张家口）",
+	"cityCode": "0592"
+},
+{
+	"id": 118,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "元氏（石家庄）",
+	"cityCode": "0593"
+},
+{
+	"id": 119,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "故城（衡水）",
+	"cityCode": "0594"
+},
+{
+	"id": 120,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "青县（沧州）",
+	"cityCode": "0595"
+},
+{
+	"id": 121,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "栾城（石家庄）",
+	"cityCode": "0596"
+},
+{
+	"id": 122,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "隆尧（邢台）",
+	"cityCode": "0597"
+},
+{
+	"id": 123,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "大名（邯郸）",
+	"cityCode": "0598"
+},
+{
+	"id": 124,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "沽源（张家口）",
+	"cityCode": "0599"
+},
+{
+	"id": 125,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "献县（沧州）",
+	"cityCode": "0600"
+},
+{
+	"id": 126,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "太原",
+	"cityCode": "0601"
+},
+{
+	"id": 127,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "大同",
+	"cityCode": "0602"
+},
+{
+	"id": 128,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "临汾",
+	"cityCode": "0603"
+},
+{
+	"id": 129,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "五台山（忻州）",
+	"cityCode": "0604"
+},
+{
+	"id": 130,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "运城",
+	"cityCode": "0605"
+},
+{
+	"id": 131,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "忻州",
+	"cityCode": "0606"
+},
+{
+	"id": 132,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "晋中",
+	"cityCode": "0607"
+},
+{
+	"id": 133,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "平遥（晋中）",
+	"cityCode": "0608"
+},
+{
+	"id": 134,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "晋城",
+	"cityCode": "0609"
+},
+{
+	"id": 135,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "阳泉",
+	"cityCode": "0611"
+},
+{
+	"id": 136,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "阳城（晋城）",
+	"cityCode": "0613"
+},
+{
+	"id": 137,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "灵石（晋中）",
+	"cityCode": "0615"
+},
+{
+	"id": 138,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "永济（运城）",
+	"cityCode": "0616"
+},
+{
+	"id": 139,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "长治",
+	"cityCode": "0617"
+},
+{
+	"id": 140,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "朔州",
+	"cityCode": "0618"
+},
+{
+	"id": 141,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "吕梁",
+	"cityCode": "0619"
+},
+{
+	"id": 142,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "介休（晋中）",
+	"cityCode": "0620"
+},
+{
+	"id": 143,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "闻喜（运城）",
+	"cityCode": "0621"
+},
+{
+	"id": 144,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "左权（晋中）",
+	"cityCode": "0622"
+},
+{
+	"id": 145,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "浑源",
+	"cityCode": "0623"
+},
+{
+	"id": 146,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "右玉（朔州）",
+	"cityCode": "0624"
+},
+{
+	"id": 147,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "霍州市（临汾）",
+	"cityCode": "0625"
+},
+{
+	"id": 148,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "高平（晋城）",
+	"cityCode": "0626"
+},
+{
+	"id": 149,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "怀仁（朔州）",
+	"cityCode": "0627"
+},
+{
+	"id": 150,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "汾阳市（吕梁）",
+	"cityCode": "0628"
+},
+{
+	"id": 151,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "孝义（吕梁）",
+	"cityCode": "0629"
+},
+{
+	"id": 152,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "离石区（吕梁）",
+	"cityCode": "0630"
+},
+{
+	"id": 153,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "原平（忻州）",
+	"cityCode": "0631"
+},
+{
+	"id": 154,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "绵山",
+	"cityCode": "0632"
+},
+{
+	"id": 155,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "古交（太原）",
+	"cityCode": "0633"
+},
+{
+	"id": 156,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "洪洞（临汾）",
+	"cityCode": "0634"
+},
+{
+	"id": 157,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "吉县（临汾）",
+	"cityCode": "0635"
+},
+{
+	"id": 158,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "侯马（临汾）",
+	"cityCode": "0636"
+},
+{
+	"id": 159,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "祁县（晋中）",
+	"cityCode": "0637"
+},
+{
+	"id": 160,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "昔阳（晋中）",
+	"cityCode": "0638"
+},
+{
+	"id": 161,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "太谷（晋中）",
+	"cityCode": "0639"
+},
+{
+	"id": 162,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "柳林（吕梁）",
+	"cityCode": "0640"
+},
+{
+	"id": 163,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "陵川（晋城）",
+	"cityCode": "0641"
+},
+{
+	"id": 164,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "寿阳（晋中）",
+	"cityCode": "0642"
+},
+{
+	"id": 165,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "代县（忻州）",
+	"cityCode": "0643"
+},
+{
+	"id": 166,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "繁峙县（忻州）",
+	"cityCode": "0644"
+},
+{
+	"id": 167,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "芮城（运城）",
+	"cityCode": "0645"
+},
+{
+	"id": 168,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "平陆（运城）",
+	"cityCode": "0646"
+},
+{
+	"id": 169,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "壶关县（长治）",
+	"cityCode": "0647"
+},
+{
+	"id": 170,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "应县（朔州）",
+	"cityCode": "0648"
+},
+{
+	"id": 171,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "山阴（朔州）",
+	"cityCode": "0649"
+},
+{
+	"id": 172,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "神池（忻州）",
+	"cityCode": "0650"
+},
+{
+	"id": 173,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "五寨（忻州）",
+	"cityCode": "0651"
+},
+{
+	"id": 174,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "偏关（忻州）",
+	"cityCode": "0652"
+},
+{
+	"id": 175,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "宁武（忻州）",
+	"cityCode": "0653"
+},
+{
+	"id": 176,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "静乐（忻州）",
+	"cityCode": "0654"
+},
+{
+	"id": 177,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "河曲（忻州）",
+	"cityCode": "0655"
+},
+{
+	"id": 178,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "保德（忻州）",
+	"cityCode": "0656"
+},
+{
+	"id": 179,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "定襄（忻州）",
+	"cityCode": "0657"
+},
+{
+	"id": 180,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "岢岚（忻州）",
+	"cityCode": "0658"
+},
+{
+	"id": 181,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "清徐县（太原）",
+	"cityCode": "0659"
+},
+{
+	"id": 182,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "和顺（晋中）",
+	"cityCode": "0660"
+},
+{
+	"id": 183,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "榆社（晋中）",
+	"cityCode": "0661"
+},
+{
+	"id": 184,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "河津（运城）",
+	"cityCode": "0662"
+},
+{
+	"id": 185,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "新绛（运城）",
+	"cityCode": "0663"
+},
+{
+	"id": 186,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "垣曲（运城）",
+	"cityCode": "0664"
+},
+{
+	"id": 187,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "绛县（运城）",
+	"cityCode": "0665"
+},
+{
+	"id": 188,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "稷山（运城）",
+	"cityCode": "0666"
+},
+{
+	"id": 189,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "夏县（运城）",
+	"cityCode": "0667"
+},
+{
+	"id": 190,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "万荣（运城）",
+	"cityCode": "0668"
+},
+{
+	"id": 191,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "临猗（运城）",
+	"cityCode": "0669"
+},
+{
+	"id": 192,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "长子县（长治）",
+	"cityCode": "0670"
+},
+{
+	"id": 193,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "沁县（长治）",
+	"cityCode": "0671"
+},
+{
+	"id": 194,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "长治县（长治）",
+	"cityCode": "0672"
+},
+{
+	"id": 195,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "襄垣县（长治）",
+	"cityCode": "0673"
+},
+{
+	"id": 196,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "潞城市（长治）",
+	"cityCode": "0674"
+},
+{
+	"id": 197,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "屯留县（长治）",
+	"cityCode": "0675"
+},
+{
+	"id": 198,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "平顺县（长治）",
+	"cityCode": "0676"
+},
+{
+	"id": 199,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "黎城县（长治）",
+	"cityCode": "0677"
+},
+{
+	"id": 200,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "武乡县（长治）",
+	"cityCode": "0678"
+},
+{
+	"id": 201,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "沁源县（长治）",
+	"cityCode": "0679"
+},
+{
+	"id": 202,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "曲沃县（临汾）",
+	"cityCode": "0680"
+},
+{
+	"id": 203,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "翼城县（临汾）",
+	"cityCode": "0681"
+},
+{
+	"id": 204,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "襄汾县（临汾）",
+	"cityCode": "0682"
+},
+{
+	"id": 205,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "古县（临汾）",
+	"cityCode": "0683"
+},
+{
+	"id": 206,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "安泽县（临汾）",
+	"cityCode": "0684"
+},
+{
+	"id": 207,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "浮山县（临汾）",
+	"cityCode": "0685"
+},
+{
+	"id": 208,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "乡宁县（临汾）",
+	"cityCode": "0686"
+},
+{
+	"id": 209,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "大宁县（临汾）",
+	"cityCode": "0687"
+},
+{
+	"id": 210,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "隰县（临汾）",
+	"cityCode": "0688"
+},
+{
+	"id": 211,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "永和县（临汾）",
+	"cityCode": "0689"
+},
+{
+	"id": 212,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "蒲县（临汾）",
+	"cityCode": "0690"
+},
+{
+	"id": 213,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "汾西县（临汾）",
+	"cityCode": "0691"
+},
+{
+	"id": 214,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "文水县（吕梁）",
+	"cityCode": "0692"
+},
+{
+	"id": 215,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "交城县（吕梁）",
+	"cityCode": "0693"
+},
+{
+	"id": 216,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "兴县（吕梁）",
+	"cityCode": "0694"
+},
+{
+	"id": 217,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "临县（吕梁）",
+	"cityCode": "0695"
+},
+{
+	"id": 218,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "石楼县（吕梁）",
+	"cityCode": "0696"
+},
+{
+	"id": 219,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "岚县（吕梁）",
+	"cityCode": "0697"
+},
+{
+	"id": 220,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "方山县（吕梁）",
+	"cityCode": "0698"
+},
+{
+	"id": 221,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "中阳县（吕梁）",
+	"cityCode": "0699"
+},
+{
+	"id": 222,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "交口县（吕梁）",
+	"cityCode": "0700"
+},
+{
+	"id": 223,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "呼和浩特",
+	"cityCode": "0701"
+},
+{
+	"id": 224,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "包头",
+	"cityCode": "0702"
+},
+{
+	"id": 225,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "锡林浩特",
+	"cityCode": "0704"
+},
+{
+	"id": 226,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "鄂尔多斯",
+	"cityCode": "0705"
+},
+{
+	"id": 227,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "通辽",
+	"cityCode": "0706"
+},
+{
+	"id": 228,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "赤峰",
+	"cityCode": "0707"
+},
+{
+	"id": 229,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "满洲里",
+	"cityCode": "0709"
+},
+{
+	"id": 230,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "巴彦淖尔",
+	"cityCode": "0710"
+},
+{
+	"id": 231,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "呼伦贝尔（海拉尔）",
+	"cityCode": "0712"
+},
+{
+	"id": 232,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "乌兰察布",
+	"cityCode": "0713"
+},
+{
+	"id": 233,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "乌海",
+	"cityCode": "0714"
+},
+{
+	"id": 234,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "和林格尔",
+	"cityCode": "0715"
+},
+{
+	"id": 235,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "阿拉善",
+	"cityCode": "0716"
+},
+{
+	"id": 236,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "宁城",
+	"cityCode": "0717"
+},
+{
+	"id": 237,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "乌兰浩特",
+	"cityCode": "0718"
+},
+{
+	"id": 238,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "阿尔山",
+	"cityCode": "0719"
+},
+{
+	"id": 239,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "杭锦后旗",
+	"cityCode": "0721"
+},
+{
+	"id": 240,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "乌拉特中旗",
+	"cityCode": "0722"
+},
+{
+	"id": 241,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "扎鲁特旗",
+	"cityCode": "0723"
+},
+{
+	"id": 242,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "根河（呼伦贝尔）",
+	"cityCode": "0725"
+},
+{
+	"id": 243,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "额尔古纳（呼伦贝尔）",
+	"cityCode": "0726"
+},
+{
+	"id": 244,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "室韦（呼伦贝尔）",
+	"cityCode": "0727"
+},
+{
+	"id": 245,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "扎兰屯市",
+	"cityCode": "0728"
+},
+{
+	"id": 246,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "额济纳旗",
+	"cityCode": "0729"
+},
+{
+	"id": 247,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "牙克石",
+	"cityCode": "0730"
+},
+{
+	"id": 248,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "二连浩特",
+	"cityCode": "0731"
+},
+{
+	"id": 249,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "兴安盟",
+	"cityCode": "0732"
+},
+{
+	"id": 250,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "锡林郭勒盟",
+	"cityCode": "0733"
+},
+{
+	"id": 251,
+	"country": "中国",
+	"provinceName": "内蒙古",
+	"cityName": "腾格里沙漠",
+	"cityCode": "0734"
+},
+{
+	"id": 252,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "大连",
+	"cityCode": "0801"
+},
+{
+	"id": 253,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "沈阳",
+	"cityCode": "0802"
+},
+{
+	"id": 254,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "鞍山",
+	"cityCode": "0803"
+},
+{
+	"id": 255,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "抚顺",
+	"cityCode": "0804"
+},
+{
+	"id": 256,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "本溪",
+	"cityCode": "0805"
+},
+{
+	"id": 257,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "丹东",
+	"cityCode": "0806"
+},
+{
+	"id": 258,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "兴城",
+	"cityCode": "0807"
+},
+{
+	"id": 259,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "新浦",
+	"cityCode": "0808"
+},
+{
+	"id": 260,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "盘锦",
+	"cityCode": "0809"
+},
+{
+	"id": 261,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "锦州",
+	"cityCode": "0810"
+},
+{
+	"id": 262,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "海城",
+	"cityCode": "0812"
+},
+{
+	"id": 263,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "铁岭",
+	"cityCode": "0813"
+},
+{
+	"id": 264,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "营口",
+	"cityCode": "0815"
+},
+{
+	"id": 265,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "朝阳",
+	"cityCode": "0816"
+},
+{
+	"id": 266,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "辽阳",
+	"cityCode": "0818"
+},
+{
+	"id": 267,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "葫芦岛",
+	"cityCode": "0820"
+},
+{
+	"id": 268,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "大石桥",
+	"cityCode": "0822"
+},
+{
+	"id": 269,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "阜新",
+	"cityCode": "0823"
+},
+{
+	"id": 270,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "凤城",
+	"cityCode": "0824"
+},
+{
+	"id": 271,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "东港",
+	"cityCode": "0825"
+},
+{
+	"id": 272,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "法库",
+	"cityCode": "0826"
+},
+{
+	"id": 273,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "旅顺",
+	"cityCode": "0827"
+},
+{
+	"id": 274,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "瓦房店",
+	"cityCode": "0828"
+},
+{
+	"id": 275,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "长兴岛",
+	"cityCode": "0829"
+},
+{
+	"id": 276,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "普兰店",
+	"cityCode": "0830"
+},
+{
+	"id": 277,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "庄河",
+	"cityCode": "0831"
+},
+{
+	"id": 278,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "盖州",
+	"cityCode": "0832"
+},
+{
+	"id": 279,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "绥中",
+	"cityCode": "0833"
+},
+{
+	"id": 280,
+	"country": "中国",
+	"provinceName": "辽宁",
+	"cityName": "开原",
+	"cityCode": "0834"
+},
+{
+	"id": 281,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "长春",
+	"cityCode": "0901"
+},
+{
+	"id": 282,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "吉林",
+	"cityCode": "0902"
+},
+{
+	"id": 283,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "通化",
+	"cityCode": "0903"
+},
+{
+	"id": 284,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "延吉",
+	"cityCode": "0904"
+},
+{
+	"id": 285,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "延边",
+	"cityCode": "0905"
+},
+{
+	"id": 286,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "长白山池北",
+	"cityCode": "0907"
+},
+{
+	"id": 287,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "长白山池西",
+	"cityCode": "0909"
+},
+{
+	"id": 288,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "松原",
+	"cityCode": "0910"
+},
+{
+	"id": 289,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "珲春",
+	"cityCode": "0911"
+},
+{
+	"id": 290,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "长白山池南",
+	"cityCode": "0912"
+},
+{
+	"id": 291,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "辽源",
+	"cityCode": "0913"
+},
+{
+	"id": 292,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "毛里求斯",
+	"cityCode": "0914"
+},
+{
+	"id": 293,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "磐石",
+	"cityCode": "0915"
+},
+{
+	"id": 294,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "扶余",
+	"cityCode": "0916"
+},
+{
+	"id": 295,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "敦化",
+	"cityCode": "0917"
+},
+{
+	"id": 296,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "白山",
+	"cityCode": "0918"
+},
+{
+	"id": 297,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "四平",
+	"cityCode": "0919"
+},
+{
+	"id": 298,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "白城",
+	"cityCode": "0920"
+},
+{
+	"id": 299,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "图们",
+	"cityCode": "0921"
+},
+{
+	"id": 300,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "榆树",
+	"cityCode": "0922"
+},
+{
+	"id": 301,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "德惠",
+	"cityCode": "0923"
+},
+{
+	"id": 302,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "九台",
+	"cityCode": "0924"
+},
+{
+	"id": 303,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "安图",
+	"cityCode": "0925"
+},
+{
+	"id": 304,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "公主岭",
+	"cityCode": "0926"
+},
+{
+	"id": 305,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "蛟河",
+	"cityCode": "0927"
+},
+{
+	"id": 306,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "汪清",
+	"cityCode": "0928"
+},
+{
+	"id": 307,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "梅河口",
+	"cityCode": "0929"
+},
+{
+	"id": 308,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "龙井",
+	"cityCode": "0930"
+},
+{
+	"id": 309,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "和龙",
+	"cityCode": "0931"
+},
+{
+	"id": 310,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "双辽",
+	"cityCode": "0932"
+},
+{
+	"id": 311,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "集安",
+	"cityCode": "0933"
+},
+{
+	"id": 312,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "农安县",
+	"cityCode": "0934"
+},
+{
+	"id": 313,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "乾安县",
+	"cityCode": "0935"
+},
+{
+	"id": 314,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "柳河县",
+	"cityCode": "0936"
+},
+{
+	"id": 315,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "临江",
+	"cityCode": "0937"
+},
+{
+	"id": 316,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "辉南县",
+	"cityCode": "0938"
+},
+{
+	"id": 317,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "长白山",
+	"cityCode": "0939"
+},
+{
+	"id": 318,
+	"country": "中国",
+	"provinceName": "吉林",
+	"cityName": "抚松县",
+	"cityCode": "0940"
+},
+{
+	"id": 319,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "哈尔滨",
+	"cityCode": "1001"
+},
+{
+	"id": 320,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "牡丹江",
+	"cityCode": "1002"
+},
+{
+	"id": 321,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "亚布力",
+	"cityCode": "1003"
+},
+{
+	"id": 322,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "大庆",
+	"cityCode": "1004"
+},
+{
+	"id": 323,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "齐齐哈尔",
+	"cityCode": "1005"
+},
+{
+	"id": 324,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "绥芬河",
+	"cityCode": "1006"
+},
+{
+	"id": 325,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "尚志",
+	"cityCode": "1008"
+},
+{
+	"id": 326,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "鹤岗",
+	"cityCode": "1009"
+},
+{
+	"id": 327,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "绥化",
+	"cityCode": "1010"
+},
+{
+	"id": 328,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "佳木斯",
+	"cityCode": "1012"
+},
+{
+	"id": 329,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "密山",
+	"cityCode": "1013"
+},
+{
+	"id": 330,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "黑河",
+	"cityCode": "1014"
+},
+{
+	"id": 331,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "鸡西",
+	"cityCode": "1015"
+},
+{
+	"id": 332,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "漠河",
+	"cityCode": "1016"
+},
+{
+	"id": 333,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "海林",
+	"cityCode": "1017"
+},
+{
+	"id": 334,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "加格达奇",
+	"cityCode": "1018"
+},
+{
+	"id": 335,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "伊春",
+	"cityCode": "1019"
+},
+{
+	"id": 336,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "双鸭山",
+	"cityCode": "1020"
+},
+{
+	"id": 337,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "雪乡",
+	"cityCode": "1023"
+},
+{
+	"id": 338,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "绥滨",
+	"cityCode": "1024"
+},
+{
+	"id": 339,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "七台河",
+	"cityCode": "1025"
+},
+{
+	"id": 340,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "五大连池",
+	"cityCode": "1026"
+},
+{
+	"id": 341,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "肇东",
+	"cityCode": "1027"
+},
+{
+	"id": 342,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "大兴安岭地区",
+	"cityCode": "1028"
+},
+{
+	"id": 343,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "海伦",
+	"cityCode": "1029"
+},
+{
+	"id": 344,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "五常市",
+	"cityCode": "1030"
+},
+{
+	"id": 345,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "镜泊湖",
+	"cityCode": "1031"
+},
+{
+	"id": 346,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "宁安",
+	"cityCode": "1032"
+},
+{
+	"id": 347,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "林口",
+	"cityCode": "1033"
+},
+{
+	"id": 348,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "东宁",
+	"cityCode": "1034"
+},
+{
+	"id": 349,
+	"country": "中国",
+	"provinceName": "黑龙江",
+	"cityName": "二浪河",
+	"cityCode": "1035"
+},
+{
+	"id": 350,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "南京",
+	"cityCode": "1101"
+},
+{
+	"id": 351,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "苏州",
+	"cityCode": "1102"
+},
+{
+	"id": 352,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "常州",
+	"cityCode": "1103"
+},
+{
+	"id": 353,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "扬州",
+	"cityCode": "1104"
+},
+{
+	"id": 354,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "无锡",
+	"cityCode": "1105"
+},
+{
+	"id": 355,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "徐州",
+	"cityCode": "1106"
+},
+{
+	"id": 356,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "南通",
+	"cityCode": "1107"
+},
+{
+	"id": 357,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "镇江",
+	"cityCode": "1108"
+},
+{
+	"id": 358,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "宜兴（无锡）",
+	"cityCode": "1109"
+},
+{
+	"id": 359,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "连云港",
+	"cityCode": "1110"
+},
+{
+	"id": 360,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "张家港（苏州）",
+	"cityCode": "1111"
+},
+{
+	"id": 361,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "扬中（镇江）",
+	"cityCode": "1112"
+},
+{
+	"id": 362,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "江阴（无锡）",
+	"cityCode": "1113"
+},
+{
+	"id": 363,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "吴江（苏州）",
+	"cityCode": "1114"
+},
+{
+	"id": 364,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "泰州",
+	"cityCode": "1115"
+},
+{
+	"id": 365,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "盐城",
+	"cityCode": "1116"
+},
+{
+	"id": 366,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "常熟（苏州）",
+	"cityCode": "1117"
+},
+{
+	"id": 367,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "江都（扬州）",
+	"cityCode": "1118"
+},
+{
+	"id": 368,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "仪征（扬州）",
+	"cityCode": "1119"
+},
+{
+	"id": 369,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "太仓（苏州）",
+	"cityCode": "1120"
+},
+{
+	"id": 370,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "同里（吴江）",
+	"cityCode": "1121"
+},
+{
+	"id": 371,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "溧阳市",
+	"cityCode": "1122"
+},
+{
+	"id": 372,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "淮安",
+	"cityCode": "1123"
+},
+{
+	"id": 373,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "泰兴（泰州）",
+	"cityCode": "1124"
+},
+{
+	"id": 374,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "启东（南通）",
+	"cityCode": "1125"
+},
+{
+	"id": 375,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "周庄（昆山）",
+	"cityCode": "1126"
+},
+{
+	"id": 376,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "昆山（苏州）",
+	"cityCode": "1127"
+},
+{
+	"id": 377,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "如东（南通）",
+	"cityCode": "1128"
+},
+{
+	"id": 378,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "丹阳（镇江）",
+	"cityCode": "1129"
+},
+{
+	"id": 379,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "金坛（常州）",
+	"cityCode": "1130"
+},
+{
+	"id": 380,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "宿迁",
+	"cityCode": "1131"
+},
+{
+	"id": 381,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "宝应（扬州）",
+	"cityCode": "1132"
+},
+{
+	"id": 382,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "新沂（徐州）",
+	"cityCode": "1134"
+},
+{
+	"id": 383,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "东台（盐城）",
+	"cityCode": "1136"
+},
+{
+	"id": 384,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "靖江（泰州）",
+	"cityCode": "1137"
+},
+{
+	"id": 385,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "泗阳（宿迁）",
+	"cityCode": "1138"
+},
+{
+	"id": 386,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "海安（南通）",
+	"cityCode": "1139"
+},
+{
+	"id": 387,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "姜堰（泰州）",
+	"cityCode": "1141"
+},
+{
+	"id": 388,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "句容（镇江）",
+	"cityCode": "1143"
+},
+{
+	"id": 389,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "高邮（扬州）",
+	"cityCode": "1144"
+},
+{
+	"id": 390,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "木渎",
+	"cityCode": "1145"
+},
+{
+	"id": 391,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "如皋（南通）",
+	"cityCode": "1146"
+},
+{
+	"id": 392,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "东海（连云港）",
+	"cityCode": "1148"
+},
+{
+	"id": 393,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "邳州（徐州）",
+	"cityCode": "1149"
+},
+{
+	"id": 394,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "大丰（盐城）",
+	"cityCode": "1150"
+},
+{
+	"id": 395,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "睢宁（徐州）",
+	"cityCode": "1151"
+},
+{
+	"id": 396,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "海门（南通）",
+	"cityCode": "1152"
+},
+{
+	"id": 397,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "通州（南通）",
+	"cityCode": "1153"
+},
+{
+	"id": 398,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "兴化（泰州）",
+	"cityCode": "1154"
+},
+{
+	"id": 399,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "铜山（徐州）",
+	"cityCode": "1155"
+},
+{
+	"id": 400,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "盱眙（淮安）",
+	"cityCode": "1156"
+},
+{
+	"id": 401,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "泗洪（宿迁）",
+	"cityCode": "1157"
+},
+{
+	"id": 402,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "涟水（淮安）",
+	"cityCode": "1158"
+},
+{
+	"id": 403,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "金湖（淮安）",
+	"cityCode": "1160"
+},
+{
+	"id": 404,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "响水县（盐城）",
+	"cityCode": "1164"
+},
+{
+	"id": 405,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "滨海县（盐城）",
+	"cityCode": "1165"
+},
+{
+	"id": 406,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "洪泽县（淮安）",
+	"cityCode": "1166"
+},
+{
+	"id": 407,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "丰县（徐州）",
+	"cityCode": "1167"
+},
+{
+	"id": 408,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "沭阳（宿迁）",
+	"cityCode": "1168"
+},
+{
+	"id": 409,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "赣榆（连云港）",
+	"cityCode": "1169"
+},
+{
+	"id": 410,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "灌南（连云港）",
+	"cityCode": "1173"
+},
+{
+	"id": 411,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "灌云（连云港）",
+	"cityCode": "1174"
+},
+{
+	"id": 412,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "阜宁（盐城）",
+	"cityCode": "1175"
+},
+{
+	"id": 413,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "射阳（盐城）",
+	"cityCode": "1176"
+},
+{
+	"id": 414,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "建湖（盐城）",
+	"cityCode": "1177"
+},
+{
+	"id": 415,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "沛县（徐州）",
+	"cityCode": "1178"
+},
+{
+	"id": 416,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "太湖风景区",
+	"cityCode": "1179"
+},
+{
+	"id": 417,
+	"country": "中国",
+	"provinceName": "江苏",
+	"cityName": "天目湖",
+	"cityCode": "1180"
+},
+{
+	"id": 418,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "杭州",
+	"cityCode": "1201"
+},
+{
+	"id": 419,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "宁波",
+	"cityCode": "1202"
+},
+{
+	"id": 420,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "温州",
+	"cityCode": "1203"
+},
+{
+	"id": 421,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "金华",
+	"cityCode": "1204"
+},
+{
+	"id": 422,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "绍兴",
+	"cityCode": "1205"
+},
+{
+	"id": 423,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "永康（金华）",
+	"cityCode": "1206"
+},
+{
+	"id": 424,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "义乌（金华）",
+	"cityCode": "1207"
+},
+{
+	"id": 425,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "玉环（台州）",
+	"cityCode": "1208"
+},
+{
+	"id": 426,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "嘉兴",
+	"cityCode": "1209"
+},
+{
+	"id": 427,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "余杭",
+	"cityCode": "1211"
+},
+{
+	"id": 428,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "诸暨（绍兴）",
+	"cityCode": "1212"
+},
+{
+	"id": 429,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "临安（杭州）",
+	"cityCode": "1213"
+},
+{
+	"id": 430,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "兰溪（金华）",
+	"cityCode": "1214"
+},
+{
+	"id": 431,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "奉化（宁波）",
+	"cityCode": "1215"
+},
+{
+	"id": 432,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "青田（丽水）",
+	"cityCode": "1223"
+},
+{
+	"id": 433,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "台州",
+	"cityCode": "1224"
+},
+{
+	"id": 434,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "黄岩",
+	"cityCode": "1225"
+},
+{
+	"id": 435,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "临海（台州）",
+	"cityCode": "1226"
+},
+{
+	"id": 436,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "天台（台州）",
+	"cityCode": "1227"
+},
+{
+	"id": 437,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "云和（丽水）",
+	"cityCode": "1228"
+},
+{
+	"id": 438,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "丽水",
+	"cityCode": "1230"
+},
+{
+	"id": 439,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "慈溪（宁波）",
+	"cityCode": "1231"
+},
+{
+	"id": 440,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "千岛湖（杭州）",
+	"cityCode": "1233"
+},
+{
+	"id": 441,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "海宁",
+	"cityCode": "1234"
+},
+{
+	"id": 442,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "衢州",
+	"cityCode": "1235"
+},
+{
+	"id": 443,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "嵊州（绍兴）",
+	"cityCode": "1236"
+},
+{
+	"id": 444,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "瑞安（温州）",
+	"cityCode": "1237"
+},
+{
+	"id": 445,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "温岭（台州）",
+	"cityCode": "1238"
+},
+{
+	"id": 446,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "湖州",
+	"cityCode": "1239"
+},
+{
+	"id": 447,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "安吉（湖州）",
+	"cityCode": "1240"
+},
+{
+	"id": 448,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "海盐",
+	"cityCode": "1241"
+},
+{
+	"id": 449,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "德清",
+	"cityCode": "1242"
+},
+{
+	"id": 450,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "东阳（金华）",
+	"cityCode": "1243"
+},
+{
+	"id": 451,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "舟山",
+	"cityCode": "1245"
+},
+{
+	"id": 452,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "上虞（绍兴）",
+	"cityCode": "1246"
+},
+{
+	"id": 453,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "桐庐（杭州）",
+	"cityCode": "1247"
+},
+{
+	"id": 454,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "富阳（杭州）",
+	"cityCode": "1248"
+},
+{
+	"id": 455,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "仙居（台州）",
+	"cityCode": "1250"
+},
+{
+	"id": 456,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "新昌（绍兴）",
+	"cityCode": "1251"
+},
+{
+	"id": 457,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "宁海（宁波）",
+	"cityCode": "1252"
+},
+{
+	"id": 458,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "象山（宁波）",
+	"cityCode": "1253"
+},
+{
+	"id": 459,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "嵊泗（舟山）",
+	"cityCode": "1257"
+},
+{
+	"id": 460,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "三门（台州）",
+	"cityCode": "1258"
+},
+{
+	"id": 461,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "乐清（温州）",
+	"cityCode": "1259"
+},
+{
+	"id": 462,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "龙泉（丽水）",
+	"cityCode": "1260"
+},
+{
+	"id": 463,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "楠溪江（永嘉）",
+	"cityCode": "1261"
+},
+{
+	"id": 464,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "江山（衢州）",
+	"cityCode": "1262"
+},
+{
+	"id": 465,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "桐乡",
+	"cityCode": "1263"
+},
+{
+	"id": 466,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "武义（金华）",
+	"cityCode": "1264"
+},
+{
+	"id": 467,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "雁荡山（温州）",
+	"cityCode": "1266"
+},
+{
+	"id": 468,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "缙云（丽水）",
+	"cityCode": "1267"
+},
+{
+	"id": 469,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "平湖",
+	"cityCode": "1268"
+},
+{
+	"id": 470,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "西塘（嘉善）",
+	"cityCode": "1270"
+},
+{
+	"id": 471,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "建德（杭州）",
+	"cityCode": "1271"
+},
+{
+	"id": 472,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "遂昌（丽水）",
+	"cityCode": "1272"
+},
+{
+	"id": 473,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "浦江（金华）",
+	"cityCode": "1274"
+},
+{
+	"id": 474,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "余姚（宁波）",
+	"cityCode": "1275"
+},
+{
+	"id": 475,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "永嘉（温州）",
+	"cityCode": "1276"
+},
+{
+	"id": 476,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "嘉善",
+	"cityCode": "1277"
+},
+{
+	"id": 477,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "常山（衢州）",
+	"cityCode": "1279"
+},
+{
+	"id": 478,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "龙游（衢州）",
+	"cityCode": "1280"
+},
+{
+	"id": 479,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "苍南（温州）",
+	"cityCode": "1283"
+},
+{
+	"id": 480,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "泰顺（温州）",
+	"cityCode": "1284"
+},
+{
+	"id": 481,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "开化（衢州）",
+	"cityCode": "1286"
+},
+{
+	"id": 482,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "平阳（温州）",
+	"cityCode": "1287"
+},
+{
+	"id": 483,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "横店（金华）",
+	"cityCode": "1288"
+},
+{
+	"id": 484,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "洞头（温州）",
+	"cityCode": "1289"
+},
+{
+	"id": 485,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "磐安（金华）",
+	"cityCode": "1291"
+},
+{
+	"id": 486,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "乌镇（桐乡）",
+	"cityCode": "1293"
+},
+{
+	"id": 487,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "普陀山（舟山）",
+	"cityCode": "1294"
+},
+{
+	"id": 488,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "岱山（舟山）",
+	"cityCode": "1296"
+},
+{
+	"id": 489,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "南浔（湖州）",
+	"cityCode": "1297"
+},
+{
+	"id": 490,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "长兴",
+	"cityCode": "1298"
+},
+{
+	"id": 491,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "景宁（丽水）",
+	"cityCode": "1299"
+},
+{
+	"id": 492,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "松阳（丽水）",
+	"cityCode": "1300"
+},
+{
+	"id": 493,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "合肥",
+	"cityCode": "1301"
+},
+{
+	"id": 494,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "黄山",
+	"cityCode": "1302"
+},
+{
+	"id": 495,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "安庆",
+	"cityCode": "1303"
+},
+{
+	"id": 496,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "芜湖",
+	"cityCode": "1304"
+},
+{
+	"id": 497,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "蚌埠",
+	"cityCode": "1305"
+},
+{
+	"id": 498,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "淮南",
+	"cityCode": "1306"
+},
+{
+	"id": 499,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "阜阳",
+	"cityCode": "1307"
+},
+{
+	"id": 500,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "巢湖（合肥）",
+	"cityCode": "1308"
+},
+{
+	"id": 501,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "九华山（池州）",
+	"cityCode": "1309"
+},
+{
+	"id": 502,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "马鞍山",
+	"cityCode": "1311"
+},
+{
+	"id": 503,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "亳州",
+	"cityCode": "1312"
+},
+{
+	"id": 504,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "天柱山（安庆）",
+	"cityCode": "1313"
+},
+{
+	"id": 505,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "宿州",
+	"cityCode": "1314"
+},
+{
+	"id": 506,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "铜陵",
+	"cityCode": "1315"
+},
+{
+	"id": 507,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "怀远（蚌埠）",
+	"cityCode": "1316"
+},
+{
+	"id": 508,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "滁州",
+	"cityCode": "1318"
+},
+{
+	"id": 509,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "六安",
+	"cityCode": "1319"
+},
+{
+	"id": 510,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "池州",
+	"cityCode": "1320"
+},
+{
+	"id": 511,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "淮北",
+	"cityCode": "1322"
+},
+{
+	"id": 512,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "宁国（宣城）",
+	"cityCode": "1323"
+},
+{
+	"id": 513,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "广德（宣城）",
+	"cityCode": "1324"
+},
+{
+	"id": 514,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "桐城（安庆）",
+	"cityCode": "1325"
+},
+{
+	"id": 515,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "繁昌（芜湖）",
+	"cityCode": "1327"
+},
+{
+	"id": 516,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "宣城",
+	"cityCode": "1328"
+},
+{
+	"id": 517,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "宏村（黄山）",
+	"cityCode": "1330"
+},
+{
+	"id": 518,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "查济（宣城泾县）",
+	"cityCode": "1331"
+},
+{
+	"id": 519,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "西递（黄山）",
+	"cityCode": "1332"
+},
+{
+	"id": 520,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "天长（滁州）",
+	"cityCode": "1333"
+},
+{
+	"id": 521,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "舒城（六安）",
+	"cityCode": "1334"
+},
+{
+	"id": 522,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "砀山（宿州）",
+	"cityCode": "1335"
+},
+{
+	"id": 523,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "潜山（安庆）",
+	"cityCode": "1336"
+},
+{
+	"id": 524,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "涡阳（亳州）",
+	"cityCode": "1337"
+},
+{
+	"id": 525,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "大别山（六安）",
+	"cityCode": "1338"
+},
+{
+	"id": 526,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "黟县（黄山）",
+	"cityCode": "1339"
+},
+{
+	"id": 527,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "宏村（黟县）",
+	"cityCode": "1340"
+},
+{
+	"id": 528,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "明光（滁州）",
+	"cityCode": "1341"
+},
+{
+	"id": 529,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "当涂（马鞍山）",
+	"cityCode": "1342"
+},
+{
+	"id": 530,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "和县（马鞍山）",
+	"cityCode": "1343"
+},
+{
+	"id": 531,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "含山（马鞍山）",
+	"cityCode": "1344"
+},
+{
+	"id": 532,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "芜湖县（芜湖）",
+	"cityCode": "1345"
+},
+{
+	"id": 533,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "南陵（芜湖）",
+	"cityCode": "1346"
+},
+{
+	"id": 534,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "无为（芜湖）",
+	"cityCode": "1347"
+},
+{
+	"id": 535,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "凤阳（滁州）",
+	"cityCode": "1348"
+},
+{
+	"id": 536,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "泾县（宣城）",
+	"cityCode": "1349"
+},
+{
+	"id": 537,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "绩溪（宣城）",
+	"cityCode": "1350"
+},
+{
+	"id": 538,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "郎溪（宣城）",
+	"cityCode": "1351"
+},
+{
+	"id": 539,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "全椒（滁州）",
+	"cityCode": "1352"
+},
+{
+	"id": 540,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "定远（滁州）",
+	"cityCode": "1353"
+},
+{
+	"id": 541,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "歙县（黄山）",
+	"cityCode": "1354"
+},
+{
+	"id": 542,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "颍上（阜阳）",
+	"cityCode": "1355"
+},
+{
+	"id": 543,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "旌德（宣城）",
+	"cityCode": "1356"
+},
+{
+	"id": 544,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "太和（阜阳）",
+	"cityCode": "1357"
+},
+{
+	"id": 545,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "五河（蚌埠）",
+	"cityCode": "1358"
+},
+{
+	"id": 546,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "祁门（黄山）",
+	"cityCode": "1359"
+},
+{
+	"id": 547,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "阜南（阜阳）",
+	"cityCode": "1360"
+},
+{
+	"id": 548,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "固镇（蚌埠）",
+	"cityCode": "1361"
+},
+{
+	"id": 549,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "天堂寨（六安）",
+	"cityCode": "1362"
+},
+{
+	"id": 550,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "界首（阜阳）",
+	"cityCode": "1363"
+},
+{
+	"id": 551,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "临泉（阜阳）",
+	"cityCode": "1364"
+},
+{
+	"id": 552,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "石台（池州）",
+	"cityCode": "1365"
+},
+{
+	"id": 553,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "泗县（宿州）",
+	"cityCode": "1366"
+},
+{
+	"id": 554,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "厦门",
+	"cityCode": "1401"
+},
+{
+	"id": 555,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "福州",
+	"cityCode": "1402"
+},
+{
+	"id": 556,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "泉州",
+	"cityCode": "1403"
+},
+{
+	"id": 557,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "武夷山",
+	"cityCode": "1404"
+},
+{
+	"id": 558,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "石狮（泉州）",
+	"cityCode": "1405"
+},
+{
+	"id": 559,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "莆田",
+	"cityCode": "1406"
+},
+{
+	"id": 560,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "漳州",
+	"cityCode": "1408"
+},
+{
+	"id": 561,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "龙岩",
+	"cityCode": "1409"
+},
+{
+	"id": 562,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "三明",
+	"cityCode": "1410"
+},
+{
+	"id": 563,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "南平",
+	"cityCode": "1411"
+},
+{
+	"id": 564,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "福鼎（宁德）",
+	"cityCode": "1412"
+},
+{
+	"id": 565,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "晋江（泉州）",
+	"cityCode": "1413"
+},
+{
+	"id": 566,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "宁德",
+	"cityCode": "1414"
+},
+{
+	"id": 567,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "连城（龙岩）",
+	"cityCode": "1415"
+},
+{
+	"id": 568,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "龙海（漳州）",
+	"cityCode": "1417"
+},
+{
+	"id": 569,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "东山（漳州）",
+	"cityCode": "1418"
+},
+{
+	"id": 570,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "安溪（泉州）",
+	"cityCode": "1419"
+},
+{
+	"id": 571,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "长乐（福州）",
+	"cityCode": "1420"
+},
+{
+	"id": 572,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "屏南（宁德）",
+	"cityCode": "1421"
+},
+{
+	"id": 573,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "福清（福州）",
+	"cityCode": "1422"
+},
+{
+	"id": 574,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "邵武（南平）",
+	"cityCode": "1423"
+},
+{
+	"id": 575,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "长汀（龙岩）",
+	"cityCode": "1424"
+},
+{
+	"id": 576,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "沙县（三明）",
+	"cityCode": "1425"
+},
+{
+	"id": 577,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "上杭（龙岩）",
+	"cityCode": "1426"
+},
+{
+	"id": 578,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "惠安（泉州）",
+	"cityCode": "1427"
+},
+{
+	"id": 579,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "永安（三明）",
+	"cityCode": "1428"
+},
+{
+	"id": 580,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "泰宁（三明）",
+	"cityCode": "1429"
+},
+{
+	"id": 581,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "连江（福州）",
+	"cityCode": "1430"
+},
+{
+	"id": 582,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "将乐（三明）",
+	"cityCode": "1431"
+},
+{
+	"id": 583,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "武平（龙岩）",
+	"cityCode": "1432"
+},
+{
+	"id": 584,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "德化（泉州）",
+	"cityCode": "1433"
+},
+{
+	"id": 585,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "漳浦（漳州）",
+	"cityCode": "1434"
+},
+{
+	"id": 586,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "霞浦（宁德）",
+	"cityCode": "1435"
+},
+{
+	"id": 587,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "漳平（龙岩）",
+	"cityCode": "1436"
+},
+{
+	"id": 588,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "永定（龙岩）",
+	"cityCode": "1437"
+},
+{
+	"id": 589,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "平潭（福州）",
+	"cityCode": "1438"
+},
+{
+	"id": 590,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "南靖（漳州）",
+	"cityCode": "1439"
+},
+{
+	"id": 591,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "永春（泉州）",
+	"cityCode": "1440"
+},
+{
+	"id": 592,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "南安（泉州）",
+	"cityCode": "1441"
+},
+{
+	"id": 593,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "云霄（漳州）",
+	"cityCode": "1442"
+},
+{
+	"id": 594,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "诏安（漳州）",
+	"cityCode": "1443"
+},
+{
+	"id": 595,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "闽侯（福州）",
+	"cityCode": "1444"
+},
+{
+	"id": 596,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "尤溪（三明）",
+	"cityCode": "1445"
+},
+{
+	"id": 597,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "建瓯（南平）",
+	"cityCode": "1446"
+},
+{
+	"id": 598,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "鼓浪屿（厦门）",
+	"cityCode": "1447"
+},
+{
+	"id": 599,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "宁化（三明）",
+	"cityCode": "1448"
+},
+{
+	"id": 600,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "福安（宁德）",
+	"cityCode": "1449"
+},
+{
+	"id": 601,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "松溪（南平）",
+	"cityCode": "1450"
+},
+{
+	"id": 602,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "建阳（南平）",
+	"cityCode": "1451"
+},
+{
+	"id": 603,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "仙游（莆田）",
+	"cityCode": "1452"
+},
+{
+	"id": 604,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "永泰（福州）",
+	"cityCode": "1453"
+},
+{
+	"id": 605,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "顺昌（南平）",
+	"cityCode": "1454"
+},
+{
+	"id": 606,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "清流（三明）",
+	"cityCode": "1455"
+},
+{
+	"id": 607,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "平和（漳州）",
+	"cityCode": "1456"
+},
+{
+	"id": 608,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "长泰（漳州）",
+	"cityCode": "1457"
+},
+{
+	"id": 609,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "大田（三明）",
+	"cityCode": "1458"
+},
+{
+	"id": 610,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "建宁（三明）",
+	"cityCode": "1459"
+},
+{
+	"id": 611,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "闽清（福州）",
+	"cityCode": "1460"
+},
+{
+	"id": 612,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "罗源（福州）",
+	"cityCode": "1461"
+},
+{
+	"id": 613,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "古田（宁德）",
+	"cityCode": "1462"
+},
+{
+	"id": 614,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "柘荣（宁德）",
+	"cityCode": "1463"
+},
+{
+	"id": 615,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "寿宁（宁德）",
+	"cityCode": "1464"
+},
+{
+	"id": 616,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "周宁（宁德）",
+	"cityCode": "1465"
+},
+{
+	"id": 617,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "政和（南平）",
+	"cityCode": "1466"
+},
+{
+	"id": 618,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "浦城（南平）",
+	"cityCode": "1467"
+},
+{
+	"id": 619,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "光泽（南平）",
+	"cityCode": "1468"
+},
+{
+	"id": 620,
+	"country": "中国",
+	"provinceName": "福建",
+	"cityName": "明溪（三明）",
+	"cityCode": "1469"
+},
+{
+	"id": 621,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "南昌",
+	"cityCode": "1501"
+},
+{
+	"id": 622,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "九江",
+	"cityCode": "1502"
+},
+{
+	"id": 623,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "吉安",
+	"cityCode": "1503"
+},
+{
+	"id": 624,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "庐山（九江）",
+	"cityCode": "1506"
+},
+{
+	"id": 625,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "景德镇",
+	"cityCode": "1507"
+},
+{
+	"id": 626,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "上饶市",
+	"cityCode": "1508"
+},
+{
+	"id": 627,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "宜春",
+	"cityCode": "1509"
+},
+{
+	"id": 628,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "井冈山（吉安）",
+	"cityCode": "1511"
+},
+{
+	"id": 629,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "萍乡",
+	"cityCode": "1512"
+},
+{
+	"id": 630,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "安福（吉安）",
+	"cityCode": "1513"
+},
+{
+	"id": 631,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "新余",
+	"cityCode": "1514"
+},
+{
+	"id": 632,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "抚州",
+	"cityCode": "1515"
+},
+{
+	"id": 633,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "赣州",
+	"cityCode": "1516"
+},
+{
+	"id": 634,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "鹰潭",
+	"cityCode": "1517"
+},
+{
+	"id": 635,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "婺源（上饶）",
+	"cityCode": "1520"
+},
+{
+	"id": 636,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "瑞金（赣州）",
+	"cityCode": "1521"
+},
+{
+	"id": 637,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "德兴（上饶）",
+	"cityCode": "1522"
+},
+{
+	"id": 638,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "三清山（上饶）",
+	"cityCode": "1523"
+},
+{
+	"id": 639,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "玉山县（上饶）",
+	"cityCode": "1524"
+},
+{
+	"id": 640,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "丰城",
+	"cityCode": "1525"
+},
+{
+	"id": 641,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "南康（赣州）",
+	"cityCode": "1526"
+},
+{
+	"id": 642,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "永修县（九江）",
+	"cityCode": "1527"
+},
+{
+	"id": 643,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "大余（赣州）",
+	"cityCode": "1528"
+},
+{
+	"id": 644,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "崇义（赣州）",
+	"cityCode": "1529"
+},
+{
+	"id": 645,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "定南（赣州）",
+	"cityCode": "1530"
+},
+{
+	"id": 646,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "南城县（抚州）",
+	"cityCode": "1531"
+},
+{
+	"id": 647,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "丰城（宜春）",
+	"cityCode": "1532"
+},
+{
+	"id": 648,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "龙虎山（鹰潭）",
+	"cityCode": "1533"
+},
+{
+	"id": 649,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "余干县（上饶）",
+	"cityCode": "1534"
+},
+{
+	"id": 650,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "乐平市（景德镇）",
+	"cityCode": "1535"
+},
+{
+	"id": 651,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "武功山（萍乡）",
+	"cityCode": "1536"
+},
+{
+	"id": 652,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "高安（宜春）",
+	"cityCode": "1537"
+},
+{
+	"id": 653,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "于都（赣州）",
+	"cityCode": "1538"
+},
+{
+	"id": 654,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "赣县（赣州）",
+	"cityCode": "1539"
+},
+{
+	"id": 655,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "全南（赣州）",
+	"cityCode": "1540"
+},
+{
+	"id": 656,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "贵溪（鹰潭）",
+	"cityCode": "1541"
+},
+{
+	"id": 657,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "信丰（赣州）",
+	"cityCode": "1542"
+},
+{
+	"id": 658,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "上犹（赣州）",
+	"cityCode": "1544"
+},
+{
+	"id": 659,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "樟树（宜春）",
+	"cityCode": "1545"
+},
+{
+	"id": 660,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "鄱阳（上饶）",
+	"cityCode": "1546"
+},
+{
+	"id": 661,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "星子温泉镇（九江）",
+	"cityCode": "1547"
+},
+{
+	"id": 662,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "安远（赣州）",
+	"cityCode": "1548"
+},
+{
+	"id": 663,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "寻乌（赣州）",
+	"cityCode": "1549"
+},
+{
+	"id": 664,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "宁都（赣州）",
+	"cityCode": "1550"
+},
+{
+	"id": 665,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "石城（赣州）",
+	"cityCode": "1551"
+},
+{
+	"id": 666,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "会昌（赣州）",
+	"cityCode": "1552"
+},
+{
+	"id": 667,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "兴国（赣州）",
+	"cityCode": "1553"
+},
+{
+	"id": 668,
+	"country": "中国",
+	"provinceName": "江西",
+	"cityName": "龙南（赣州）",
+	"cityCode": "1554"
+},
+{
+	"id": 669,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "青岛",
+	"cityCode": "1601"
+},
+{
+	"id": 670,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "济南",
+	"cityCode": "1602"
+},
+{
+	"id": 671,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "潍坊",
+	"cityCode": "1603"
+},
+{
+	"id": 672,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "烟台",
+	"cityCode": "1604"
+},
+{
+	"id": 673,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "威海",
+	"cityCode": "1605"
+},
+{
+	"id": 674,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "淄博",
+	"cityCode": "1606"
+},
+{
+	"id": 675,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "东营",
+	"cityCode": "1607"
+},
+{
+	"id": 676,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "枣庄",
+	"cityCode": "1608"
+},
+{
+	"id": 677,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "曲阜（济宁）",
+	"cityCode": "1610"
+},
+{
+	"id": 678,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "临沂",
+	"cityCode": "1611"
+},
+{
+	"id": 679,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "德州",
+	"cityCode": "1612"
+},
+{
+	"id": 680,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "蓬莱（烟台）",
+	"cityCode": "1613"
+},
+{
+	"id": 681,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "泰安",
+	"cityCode": "1614"
+},
+{
+	"id": 682,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "日照",
+	"cityCode": "1615"
+},
+{
+	"id": 683,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "菏泽",
+	"cityCode": "1616"
+},
+{
+	"id": 684,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "滨州",
+	"cityCode": "1618"
+},
+{
+	"id": 685,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "济宁",
+	"cityCode": "1619"
+},
+{
+	"id": 686,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "寿光（潍坊）",
+	"cityCode": "1620"
+},
+{
+	"id": 687,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "聊城",
+	"cityCode": "1622"
+},
+{
+	"id": 688,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "即墨（青岛）",
+	"cityCode": "1625"
+},
+{
+	"id": 689,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "莱西（青岛）",
+	"cityCode": "1626"
+},
+{
+	"id": 690,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "章丘（济南）",
+	"cityCode": "1627"
+},
+{
+	"id": 691,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "文登（威海）",
+	"cityCode": "1629"
+},
+{
+	"id": 692,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "胶州（青岛）",
+	"cityCode": "1631"
+},
+{
+	"id": 693,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "胶南（青岛）",
+	"cityCode": "1632"
+},
+{
+	"id": 694,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "长岛县（烟台）",
+	"cityCode": "1633"
+},
+{
+	"id": 695,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "莱芜",
+	"cityCode": "1634"
+},
+{
+	"id": 696,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "荣成（威海）",
+	"cityCode": "1636"
+},
+{
+	"id": 697,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "莱阳（烟台）",
+	"cityCode": "1637"
+},
+{
+	"id": 698,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "平邑（临沂）",
+	"cityCode": "1638"
+},
+{
+	"id": 699,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "青州（潍坊）",
+	"cityCode": "1639"
+},
+{
+	"id": 700,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "龙口（烟台）",
+	"cityCode": "1640"
+},
+{
+	"id": 701,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "广饶（东营）",
+	"cityCode": "1641"
+},
+{
+	"id": 702,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "垦利（东营）",
+	"cityCode": "1642"
+},
+{
+	"id": 703,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "平度（青岛）",
+	"cityCode": "1643"
+},
+{
+	"id": 704,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "高密（潍坊）",
+	"cityCode": "1644"
+},
+{
+	"id": 705,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "肥城（泰安）",
+	"cityCode": "1645"
+},
+{
+	"id": 706,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "五莲（日照）",
+	"cityCode": "1646"
+},
+{
+	"id": 707,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "东明（菏泽）",
+	"cityCode": "1647"
+},
+{
+	"id": 708,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "诸城（潍坊）",
+	"cityCode": "1648"
+},
+{
+	"id": 709,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "夏津（德州）",
+	"cityCode": "1649"
+},
+{
+	"id": 710,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "博兴（滨州）",
+	"cityCode": "1650"
+},
+{
+	"id": 711,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "海阳（烟台）",
+	"cityCode": "1651"
+},
+{
+	"id": 712,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "莱州（烟台）",
+	"cityCode": "1652"
+},
+{
+	"id": 713,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "安丘（潍坊）",
+	"cityCode": "1653"
+},
+{
+	"id": 714,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "栖霞（烟台）",
+	"cityCode": "1654"
+},
+{
+	"id": 715,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "兖州（济宁）",
+	"cityCode": "1655"
+},
+{
+	"id": 716,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "招远（烟台）",
+	"cityCode": "1656"
+},
+{
+	"id": 717,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "沂源（淄博）",
+	"cityCode": "1657"
+},
+{
+	"id": 718,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "沂南（临沂）",
+	"cityCode": "1658"
+},
+{
+	"id": 719,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "郓城（菏泽）",
+	"cityCode": "1659"
+},
+{
+	"id": 720,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "沂水（临沂）",
+	"cityCode": "1660"
+},
+{
+	"id": 721,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "乳山（威海）",
+	"cityCode": "1661"
+},
+{
+	"id": 722,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "泗水（济宁）",
+	"cityCode": "1662"
+},
+{
+	"id": 723,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "邹平（滨州）",
+	"cityCode": "1663"
+},
+{
+	"id": 724,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "济阳（济南）",
+	"cityCode": "1664"
+},
+{
+	"id": 725,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "滕州（枣庄）",
+	"cityCode": "1665"
+},
+{
+	"id": 726,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "平原（德州）",
+	"cityCode": "1666"
+},
+{
+	"id": 727,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "茌平（聊城）",
+	"cityCode": "1667"
+},
+{
+	"id": 728,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "昌乐（潍坊）",
+	"cityCode": "1668"
+},
+{
+	"id": 729,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "无棣（滨州）",
+	"cityCode": "1669"
+},
+{
+	"id": 730,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "东平（泰安）",
+	"cityCode": "1670"
+},
+{
+	"id": 731,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "莒南（临沂）",
+	"cityCode": "1671"
+},
+{
+	"id": 732,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "邹城（济宁）",
+	"cityCode": "1672"
+},
+{
+	"id": 733,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "金乡（济宁）",
+	"cityCode": "1673"
+},
+{
+	"id": 734,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "宁阳（泰安）",
+	"cityCode": "1674"
+},
+{
+	"id": 735,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "新泰（泰安）",
+	"cityCode": "1675"
+},
+{
+	"id": 736,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "齐河（德州）",
+	"cityCode": "1676"
+},
+{
+	"id": 737,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "临清（聊城）",
+	"cityCode": "1677"
+},
+{
+	"id": 738,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "惠民（滨州）",
+	"cityCode": "1678"
+},
+{
+	"id": 739,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "庆云（德州）",
+	"cityCode": "1679"
+},
+{
+	"id": 740,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "微山（济宁）",
+	"cityCode": "1680"
+},
+{
+	"id": 741,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "利津（东营）",
+	"cityCode": "1681"
+},
+{
+	"id": 742,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "东阿（聊城）",
+	"cityCode": "1682"
+},
+{
+	"id": 743,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "莘县（聊城）",
+	"cityCode": "1683"
+},
+{
+	"id": 744,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "郯城（临沂）",
+	"cityCode": "1684"
+},
+{
+	"id": 745,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "乐陵（德州）",
+	"cityCode": "1685"
+},
+{
+	"id": 746,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "汶上（济宁）",
+	"cityCode": "1686"
+},
+{
+	"id": 747,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "宁津（德州）",
+	"cityCode": "1687"
+},
+{
+	"id": 748,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "阳信（滨州）",
+	"cityCode": "1688"
+},
+{
+	"id": 749,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "禹城（德州）",
+	"cityCode": "1689"
+},
+{
+	"id": 750,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "阳谷（聊城）",
+	"cityCode": "1690"
+},
+{
+	"id": 751,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "临沭（临沂）",
+	"cityCode": "1691"
+},
+{
+	"id": 752,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "高唐（聊城）",
+	"cityCode": "1692"
+},
+{
+	"id": 753,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "临邑（德州）",
+	"cityCode": "1693"
+},
+{
+	"id": 754,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "梁山（济宁）",
+	"cityCode": "1694"
+},
+{
+	"id": 755,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "冠县（聊城）",
+	"cityCode": "1695"
+},
+{
+	"id": 756,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "巨野（菏泽）",
+	"cityCode": "1696"
+},
+{
+	"id": 757,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "蒙阴（临沂）",
+	"cityCode": "1697"
+},
+{
+	"id": 758,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "兰陵（临沂）",
+	"cityCode": "1698"
+},
+{
+	"id": 759,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "曹县（菏泽）",
+	"cityCode": "1699"
+},
+{
+	"id": 760,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "单县（菏泽）",
+	"cityCode": "1700"
+},
+{
+	"id": 761,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "郑州",
+	"cityCode": "1701"
+},
+{
+	"id": 762,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "洛阳",
+	"cityCode": "1702"
+},
+{
+	"id": 763,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "开封",
+	"cityCode": "1703"
+},
+{
+	"id": 764,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "新乡",
+	"cityCode": "1704"
+},
+{
+	"id": 765,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "平顶山",
+	"cityCode": "1705"
+},
+{
+	"id": 766,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "濮阳",
+	"cityCode": "1706"
+},
+{
+	"id": 767,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "南阳",
+	"cityCode": "1707"
+},
+{
+	"id": 768,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "三门峡",
+	"cityCode": "1708"
+},
+{
+	"id": 769,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "济源",
+	"cityCode": "1709"
+},
+{
+	"id": 770,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "焦作",
+	"cityCode": "1710"
+},
+{
+	"id": 771,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "灵宝（三门峡）",
+	"cityCode": "1711"
+},
+{
+	"id": 772,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "鹤壁",
+	"cityCode": "1712"
+},
+{
+	"id": 773,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "许昌",
+	"cityCode": "1713"
+},
+{
+	"id": 774,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "周口",
+	"cityCode": "1714"
+},
+{
+	"id": 775,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "安阳",
+	"cityCode": "1716"
+},
+{
+	"id": 776,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "漯河",
+	"cityCode": "1717"
+},
+{
+	"id": 777,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "驻马店",
+	"cityCode": "1718"
+},
+{
+	"id": 778,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "登封（郑州）",
+	"cityCode": "1719"
+},
+{
+	"id": 779,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "信阳",
+	"cityCode": "1720"
+},
+{
+	"id": 780,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "商丘",
+	"cityCode": "1721"
+},
+{
+	"id": 781,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "荥阳（郑州）",
+	"cityCode": "1722"
+},
+{
+	"id": 782,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "新郑（郑州）",
+	"cityCode": "1723"
+},
+{
+	"id": 783,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "新密（郑州）",
+	"cityCode": "1724"
+},
+{
+	"id": 784,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "栾川（洛阳）",
+	"cityCode": "1726"
+},
+{
+	"id": 785,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "汝州（平顶山）",
+	"cityCode": "1727"
+},
+{
+	"id": 786,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "林州（安阳）",
+	"cityCode": "1728"
+},
+{
+	"id": 787,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "禹州（许昌）",
+	"cityCode": "1729"
+},
+{
+	"id": 788,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "永城（商丘）",
+	"cityCode": "1730"
+},
+{
+	"id": 789,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "偃师（洛阳）",
+	"cityCode": "1732"
+},
+{
+	"id": 790,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "舞阳（漯河）",
+	"cityCode": "1733"
+},
+{
+	"id": 791,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "邓州（南阳）",
+	"cityCode": "1734"
+},
+{
+	"id": 792,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "鲁山（平顶山）",
+	"cityCode": "1735"
+},
+{
+	"id": 793,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "淮阳（周口）",
+	"cityCode": "1736"
+},
+{
+	"id": 794,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "洛宁（洛阳）",
+	"cityCode": "1739"
+},
+{
+	"id": 795,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "光山（信阳）",
+	"cityCode": "1741"
+},
+{
+	"id": 796,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "巩义（郑州）",
+	"cityCode": "1743"
+},
+{
+	"id": 797,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "中牟（郑州）",
+	"cityCode": "1744"
+},
+{
+	"id": 798,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "孟津（洛阳）",
+	"cityCode": "1745"
+},
+{
+	"id": 799,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "孟州（焦作）",
+	"cityCode": "1746"
+},
+{
+	"id": 800,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "宜阳（洛阳）",
+	"cityCode": "1747"
+},
+{
+	"id": 801,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "嵩县（洛阳）",
+	"cityCode": "1748"
+},
+{
+	"id": 802,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "新安（洛阳）",
+	"cityCode": "1749"
+},
+{
+	"id": 803,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "伊川（洛阳）",
+	"cityCode": "1750"
+},
+{
+	"id": 804,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "鄢陵（许昌）",
+	"cityCode": "1751"
+},
+{
+	"id": 805,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "滑县（安阳）",
+	"cityCode": "1752"
+},
+{
+	"id": 806,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "柘城（商丘）",
+	"cityCode": "1753"
+},
+{
+	"id": 807,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "舞钢（平顶山）",
+	"cityCode": "1754"
+},
+{
+	"id": 808,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "项城（周口）",
+	"cityCode": "1755"
+},
+{
+	"id": 809,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "宝丰（平顶山）",
+	"cityCode": "1756"
+},
+{
+	"id": 810,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "沁阳（焦作）",
+	"cityCode": "1757"
+},
+{
+	"id": 811,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "息县（信阳）",
+	"cityCode": "1758"
+},
+{
+	"id": 812,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "潢川（信阳）",
+	"cityCode": "1759"
+},
+{
+	"id": 813,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "罗山（信阳）",
+	"cityCode": "1760"
+},
+{
+	"id": 814,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "固始（信阳）",
+	"cityCode": "1761"
+},
+{
+	"id": 815,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "商城（信阳）",
+	"cityCode": "1762"
+},
+{
+	"id": 816,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "渑池（三门峡）",
+	"cityCode": "1763"
+},
+{
+	"id": 817,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "义马（三门峡）",
+	"cityCode": "1764"
+},
+{
+	"id": 818,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "辉县（新乡）",
+	"cityCode": "1765"
+},
+{
+	"id": 819,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "获嘉（新乡）",
+	"cityCode": "1766"
+},
+{
+	"id": 820,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "长垣（新乡）",
+	"cityCode": "1767"
+},
+{
+	"id": 821,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "原阳（新乡）",
+	"cityCode": "1768"
+},
+{
+	"id": 822,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "浚县（鹤壁）",
+	"cityCode": "1769"
+},
+{
+	"id": 823,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "遂平（驻马店）",
+	"cityCode": "1770"
+},
+{
+	"id": 824,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "睢县（商丘）",
+	"cityCode": "1771"
+},
+{
+	"id": 825,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "南召（南阳）",
+	"cityCode": "1772"
+},
+{
+	"id": 826,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "方城（南阳）",
+	"cityCode": "1773"
+},
+{
+	"id": 827,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "西峡（南阳）",
+	"cityCode": "1774"
+},
+{
+	"id": 828,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "内乡（南阳）",
+	"cityCode": "1775"
+},
+{
+	"id": 829,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "淅川（南阳）",
+	"cityCode": "1776"
+},
+{
+	"id": 830,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "社旗（南阳）",
+	"cityCode": "1777"
+},
+{
+	"id": 831,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "唐河（南阳）",
+	"cityCode": "1778"
+},
+{
+	"id": 832,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "新野（南阳）",
+	"cityCode": "1779"
+},
+{
+	"id": 833,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "桐柏（南阳）",
+	"cityCode": "1780"
+},
+{
+	"id": 834,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "镇平（南阳）",
+	"cityCode": "1781"
+},
+{
+	"id": 835,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "汝阳（洛阳）",
+	"cityCode": "1782"
+},
+{
+	"id": 836,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "夏邑（商丘）",
+	"cityCode": "1783"
+},
+{
+	"id": 837,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "民权（商丘）",
+	"cityCode": "1784"
+},
+{
+	"id": 838,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "宁陵（商丘）",
+	"cityCode": "1785"
+},
+{
+	"id": 839,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "博爱（焦作）",
+	"cityCode": "1786"
+},
+{
+	"id": 840,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "武陟（焦作）",
+	"cityCode": "1787"
+},
+{
+	"id": 841,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "温县（焦作）",
+	"cityCode": "1788"
+},
+{
+	"id": 842,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "鹿邑（周口）",
+	"cityCode": "1789"
+},
+{
+	"id": 843,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "虞城（商丘）",
+	"cityCode": "1790"
+},
+{
+	"id": 844,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "云台山（修武）",
+	"cityCode": "1791"
+},
+{
+	"id": 845,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "临颍（漯河）",
+	"cityCode": "1792"
+},
+{
+	"id": 846,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "南乐（濮阳）",
+	"cityCode": "1793"
+},
+{
+	"id": 847,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "清丰（濮阳）",
+	"cityCode": "1794"
+},
+{
+	"id": 848,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "范县（濮阳）",
+	"cityCode": "1795"
+},
+{
+	"id": 849,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "台前（濮阳）",
+	"cityCode": "1796"
+},
+{
+	"id": 850,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "泌阳（驻马店）",
+	"cityCode": "1797"
+},
+{
+	"id": 851,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "卫辉（新乡）",
+	"cityCode": "1798"
+},
+{
+	"id": 852,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "内黄县（安阳）",
+	"cityCode": "1799"
+},
+{
+	"id": 853,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "长葛（许昌）",
+	"cityCode": "1800"
+},
+{
+	"id": 854,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "武汉",
+	"cityCode": "1801"
+},
+{
+	"id": 855,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "荆州",
+	"cityCode": "1802"
+},
+{
+	"id": 856,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "宜昌",
+	"cityCode": "1803"
+},
+{
+	"id": 857,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "长阳（宜昌）",
+	"cityCode": "1805"
+},
+{
+	"id": 858,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "十堰",
+	"cityCode": "1807"
+},
+{
+	"id": 859,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "荆门",
+	"cityCode": "1810"
+},
+{
+	"id": 860,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "恩施",
+	"cityCode": "1811"
+},
+{
+	"id": 861,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "神农架",
+	"cityCode": "1813"
+},
+{
+	"id": 862,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "黄石",
+	"cityCode": "1814"
+},
+{
+	"id": 863,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "仙桃",
+	"cityCode": "1815"
+},
+{
+	"id": 864,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "丹江口（十堰）",
+	"cityCode": "1816"
+},
+{
+	"id": 865,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "鄂州",
+	"cityCode": "1818"
+},
+{
+	"id": 866,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "大冶（黄石）",
+	"cityCode": "1819"
+},
+{
+	"id": 867,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "咸宁",
+	"cityCode": "1820"
+},
+{
+	"id": 868,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "赤壁（咸宁）",
+	"cityCode": "1821"
+},
+{
+	"id": 869,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "孝感",
+	"cityCode": "1822"
+},
+{
+	"id": 870,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "随州",
+	"cityCode": "1823"
+},
+{
+	"id": 871,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "钟祥（荆门）",
+	"cityCode": "1826"
+},
+{
+	"id": 872,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "汉川（孝感）",
+	"cityCode": "1827"
+},
+{
+	"id": 873,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "潜江",
+	"cityCode": "1829"
+},
+{
+	"id": 874,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "黄冈",
+	"cityCode": "1830"
+},
+{
+	"id": 875,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "武当山（十堰）",
+	"cityCode": "1831"
+},
+{
+	"id": 876,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "应城（孝感）",
+	"cityCode": "1832"
+},
+{
+	"id": 877,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "洪湖（荆州）",
+	"cityCode": "1833"
+},
+{
+	"id": 878,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "襄阳",
+	"cityCode": "1834"
+},
+{
+	"id": 879,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "嘉鱼（咸宁）",
+	"cityCode": "1835"
+},
+{
+	"id": 880,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "武穴（黄冈）",
+	"cityCode": "1836"
+},
+{
+	"id": 881,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "麻城（黄冈）",
+	"cityCode": "1837"
+},
+{
+	"id": 882,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "罗田（黄冈）",
+	"cityCode": "1838"
+},
+{
+	"id": 883,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "利川（恩施）",
+	"cityCode": "1839"
+},
+{
+	"id": 884,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "天门（荆州）",
+	"cityCode": "1840"
+},
+{
+	"id": 885,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "广水（随州）",
+	"cityCode": "1841"
+},
+{
+	"id": 886,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "通山（咸宁）",
+	"cityCode": "1842"
+},
+{
+	"id": 887,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "宜都（宜昌）",
+	"cityCode": "1846"
+},
+{
+	"id": 888,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "云梦县",
+	"cityCode": "1847"
+},
+{
+	"id": 889,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "黄梅（黄冈）",
+	"cityCode": "1848"
+},
+{
+	"id": 890,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "英山（黄冈）",
+	"cityCode": "1849"
+},
+{
+	"id": 891,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "当阳市（宜昌）",
+	"cityCode": "1850"
+},
+{
+	"id": 892,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "五峰（宜昌）",
+	"cityCode": "1851"
+},
+{
+	"id": 893,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "保康（襄阳）",
+	"cityCode": "1852"
+},
+{
+	"id": 894,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "南漳（襄阳）",
+	"cityCode": "1853"
+},
+{
+	"id": 895,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "宜城（襄阳）",
+	"cityCode": "1854"
+},
+{
+	"id": 896,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "浠水（黄冈）",
+	"cityCode": "1855"
+},
+{
+	"id": 897,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "秭归（宜昌）",
+	"cityCode": "1856"
+},
+{
+	"id": 898,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "老河口（襄阳）",
+	"cityCode": "1857"
+},
+{
+	"id": 899,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "谷城（襄阳）",
+	"cityCode": "1858"
+},
+{
+	"id": 900,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "远安（宜昌）",
+	"cityCode": "1859"
+},
+{
+	"id": 901,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "京山（荆门）",
+	"cityCode": "1860"
+},
+{
+	"id": 902,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "江陵（荆州）",
+	"cityCode": "1861"
+},
+{
+	"id": 903,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "松滋（荆州）",
+	"cityCode": "1862"
+},
+{
+	"id": 904,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "公安（荆州）",
+	"cityCode": "1863"
+},
+{
+	"id": 905,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "石首（荆州）",
+	"cityCode": "1864"
+},
+{
+	"id": 906,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "枣阳（襄阳）",
+	"cityCode": "1865"
+},
+{
+	"id": 907,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "安陆（孝感）",
+	"cityCode": "1866"
+},
+{
+	"id": 908,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "沙洋（荆门）",
+	"cityCode": "1867"
+},
+{
+	"id": 909,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "监利（荆州）",
+	"cityCode": "1868"
+},
+{
+	"id": 910,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "建始（恩施）",
+	"cityCode": "1869"
+},
+{
+	"id": 911,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "阳新（黄石）",
+	"cityCode": "1870"
+},
+{
+	"id": 912,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "团风（黄冈）",
+	"cityCode": "1871"
+},
+{
+	"id": 913,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "蕲春（黄冈）",
+	"cityCode": "1872"
+},
+{
+	"id": 914,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "屈家岭管理区（荆门）",
+	"cityCode": "1873"
+},
+{
+	"id": 915,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "枝江（宜昌）",
+	"cityCode": "1874"
+},
+{
+	"id": 916,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "沙市（荆州）",
+	"cityCode": "1875"
+},
+{
+	"id": 917,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "鹤峰（恩施）",
+	"cityCode": "1876"
+},
+{
+	"id": 918,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "宣恩（恩施）",
+	"cityCode": "1877"
+},
+{
+	"id": 919,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "巴东（恩施）",
+	"cityCode": "1878"
+},
+{
+	"id": 920,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "云梦（孝感）",
+	"cityCode": "1879"
+},
+{
+	"id": 921,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "兴山县（宜昌）",
+	"cityCode": "1880"
+},
+{
+	"id": 922,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "红安（黄冈）",
+	"cityCode": "1881"
+},
+{
+	"id": 923,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "孝昌（孝感）",
+	"cityCode": "1882"
+},
+{
+	"id": 924,
+	"country": "中国",
+	"provinceName": "湖北",
+	"cityName": "大悟（孝感）",
+	"cityCode": "1883"
+},
+{
+	"id": 925,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "长沙",
+	"cityCode": "1901"
+},
+{
+	"id": 926,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "株洲",
+	"cityCode": "1902"
+},
+{
+	"id": 927,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "张家界",
+	"cityCode": "1903"
+},
+{
+	"id": 928,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "岳阳",
+	"cityCode": "1904"
+},
+{
+	"id": 929,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "湘潭",
+	"cityCode": "1906"
+},
+{
+	"id": 930,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "郴州",
+	"cityCode": "1907"
+},
+{
+	"id": 931,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "常德",
+	"cityCode": "1910"
+},
+{
+	"id": 932,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "凤凰（湘西）",
+	"cityCode": "1915"
+},
+{
+	"id": 933,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "韶山（湘潭）",
+	"cityCode": "1916"
+},
+{
+	"id": 934,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "衡阳",
+	"cityCode": "1918"
+},
+{
+	"id": 935,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "浏阳（长沙）",
+	"cityCode": "1919"
+},
+{
+	"id": 936,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "益阳",
+	"cityCode": "1920"
+},
+{
+	"id": 937,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "怀化",
+	"cityCode": "1921"
+},
+{
+	"id": 938,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "耒阳（衡阳）",
+	"cityCode": "1922"
+},
+{
+	"id": 939,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "永州",
+	"cityCode": "1923"
+},
+{
+	"id": 940,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "邵阳",
+	"cityCode": "1924"
+},
+{
+	"id": 941,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "冷水江（娄底）",
+	"cityCode": "1925"
+},
+{
+	"id": 942,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "安化（益阳）",
+	"cityCode": "1926"
+},
+{
+	"id": 943,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "吉首（湘西）",
+	"cityCode": "1927"
+},
+{
+	"id": 944,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "娄底",
+	"cityCode": "1928"
+},
+{
+	"id": 945,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "醴陵市政府",
+	"cityCode": "1929"
+},
+{
+	"id": 946,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "宁乡（长沙）",
+	"cityCode": "1936"
+},
+{
+	"id": 947,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "湘西",
+	"cityCode": "1937"
+},
+{
+	"id": 948,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "沅江（益阳）",
+	"cityCode": "1939"
+},
+{
+	"id": 949,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "岳阳县（岳阳）",
+	"cityCode": "1941"
+},
+{
+	"id": 950,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "华容（岳阳）",
+	"cityCode": "1943"
+},
+{
+	"id": 951,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "汉寿（常德）",
+	"cityCode": "1945"
+},
+{
+	"id": 952,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "石门（常德）",
+	"cityCode": "1946"
+},
+{
+	"id": 953,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "临澧（常德）",
+	"cityCode": "1947"
+},
+{
+	"id": 954,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "澧县（常德）",
+	"cityCode": "1948"
+},
+{
+	"id": 955,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "桃源（常德）",
+	"cityCode": "1949"
+},
+{
+	"id": 956,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "津市（常德）",
+	"cityCode": "1950"
+},
+{
+	"id": 957,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "安乡（常德）",
+	"cityCode": "1951"
+},
+{
+	"id": 958,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "南县（益阳）",
+	"cityCode": "1952"
+},
+{
+	"id": 959,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "桃江（益阳）",
+	"cityCode": "1953"
+},
+{
+	"id": 960,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "邵东（邵阳）",
+	"cityCode": "1954"
+},
+{
+	"id": 961,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "武冈（邵阳）",
+	"cityCode": "1955"
+},
+{
+	"id": 962,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "城步（邵阳）",
+	"cityCode": "1956"
+},
+{
+	"id": 963,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "隆回（邵阳）",
+	"cityCode": "1957"
+},
+{
+	"id": 964,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "新邵（邵阳）",
+	"cityCode": "1958"
+},
+{
+	"id": 965,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "新宁（邵阳）",
+	"cityCode": "1959"
+},
+{
+	"id": 966,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "邵阳县（邵阳）",
+	"cityCode": "1960"
+},
+{
+	"id": 967,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "洞口（邵阳）",
+	"cityCode": "1961"
+},
+{
+	"id": 968,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "绥宁（邵阳）",
+	"cityCode": "1962"
+},
+{
+	"id": 969,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "东安（永州）",
+	"cityCode": "1963"
+},
+{
+	"id": 970,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "宁远（永州）",
+	"cityCode": "1964"
+},
+{
+	"id": 971,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "江永（永州）",
+	"cityCode": "1965"
+},
+{
+	"id": 972,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "新化（娄底）",
+	"cityCode": "1966"
+},
+{
+	"id": 973,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "涟源（娄底）",
+	"cityCode": "1967"
+},
+{
+	"id": 974,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "永顺（湘西）",
+	"cityCode": "1969"
+},
+{
+	"id": 975,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "祁阳县（永州）",
+	"cityCode": "1970"
+},
+{
+	"id": 976,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "道县（永州）",
+	"cityCode": "1971"
+},
+{
+	"id": 977,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "双牌县（永州）",
+	"cityCode": "1972"
+},
+{
+	"id": 978,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "新田县（永州）",
+	"cityCode": "1973"
+},
+{
+	"id": 979,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "蓝山县（永州）",
+	"cityCode": "1974"
+},
+{
+	"id": 980,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "长沙县",
+	"cityCode": "1976"
+},
+{
+	"id": 981,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "株洲县",
+	"cityCode": "1977"
+},
+{
+	"id": 982,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "攸县（株洲）",
+	"cityCode": "1978"
+},
+{
+	"id": 983,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "茶陵县（株洲）",
+	"cityCode": "1979"
+},
+{
+	"id": 984,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "炎陵县（株洲）",
+	"cityCode": "1980"
+},
+{
+	"id": 985,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "醴陵县（株洲）",
+	"cityCode": "1981"
+},
+{
+	"id": 986,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "湘潭县",
+	"cityCode": "1982"
+},
+{
+	"id": 987,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "湘乡市（湘潭）",
+	"cityCode": "1983"
+},
+{
+	"id": 988,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "慈利县（张家界）",
+	"cityCode": "1984"
+},
+{
+	"id": 989,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "桑植县（张家界）",
+	"cityCode": "1985"
+},
+{
+	"id": 990,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "安化县（益阳）",
+	"cityCode": "1986"
+},
+{
+	"id": 991,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "桃江县（益阳）",
+	"cityCode": "1987"
+},
+{
+	"id": 992,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "桂东县（郴州）",
+	"cityCode": "1995"
+},
+{
+	"id": 993,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "中方县（怀化）",
+	"cityCode": "1998"
+},
+{
+	"id": 994,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "沅陵县（怀化）",
+	"cityCode": "1999"
+},
+{
+	"id": 995,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "广州",
+	"cityCode": "2001"
+},
+{
+	"id": 996,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "汕头",
+	"cityCode": "2002"
+},
+{
+	"id": 997,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "深圳",
+	"cityCode": "2003"
+},
+{
+	"id": 998,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "珠海",
+	"cityCode": "2004"
+},
+{
+	"id": 999,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "佛山",
+	"cityCode": "2005"
+},
+{
+	"id": 1000,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "揭阳",
+	"cityCode": "2006"
+},
+{
+	"id": 1001,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "东莞",
+	"cityCode": "2007"
+},
+{
+	"id": 1002,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "澄海",
+	"cityCode": "2008"
+},
+{
+	"id": 1003,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "茂名",
+	"cityCode": "2009"
+},
+{
+	"id": 1004,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "惠州",
+	"cityCode": "2010"
+},
+{
+	"id": 1005,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "中山",
+	"cityCode": "2011"
+},
+{
+	"id": 1006,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "肇庆",
+	"cityCode": "2013"
+},
+{
+	"id": 1007,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "湛江",
+	"cityCode": "2014"
+},
+{
+	"id": 1008,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "潮州",
+	"cityCode": "2016"
+},
+{
+	"id": 1009,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "阳江",
+	"cityCode": "2020"
+},
+{
+	"id": 1010,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "江门",
+	"cityCode": "2021"
+},
+{
+	"id": 1011,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "河源",
+	"cityCode": "2026"
+},
+{
+	"id": 1012,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "清远",
+	"cityCode": "2027"
+},
+{
+	"id": 1013,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "梅州",
+	"cityCode": "2028"
+},
+{
+	"id": 1014,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "鹤山",
+	"cityCode": "2029"
+},
+{
+	"id": 1015,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "韶关",
+	"cityCode": "2030"
+},
+{
+	"id": 1016,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "台山",
+	"cityCode": "2037"
+},
+{
+	"id": 1017,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "汕尾",
+	"cityCode": "2040"
+},
+{
+	"id": 1018,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "云浮",
+	"cityCode": "2041"
+},
+{
+	"id": 1019,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "普宁",
+	"cityCode": "2042"
+},
+{
+	"id": 1020,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "顺德",
+	"cityCode": "2045"
+},
+{
+	"id": 1021,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "开平",
+	"cityCode": "2048"
+},
+{
+	"id": 1022,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "恩平",
+	"cityCode": "2050"
+},
+{
+	"id": 1023,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "廉江",
+	"cityCode": "2051"
+},
+{
+	"id": 1024,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "信宜",
+	"cityCode": "2052"
+},
+{
+	"id": 1025,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "化州",
+	"cityCode": "2053"
+},
+{
+	"id": 1026,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "高州",
+	"cityCode": "2054"
+},
+{
+	"id": 1027,
+	"country": "中国",
+	"provinceName": "广东",
+	"cityName": "新会",
+	"cityCode": "2055"
+},
+{
+	"id": 1028,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "桂林",
+	"cityCode": "2101"
+},
+{
+	"id": 1029,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "南宁",
+	"cityCode": "2102"
+},
+{
+	"id": 1030,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "北海",
+	"cityCode": "2103"
+},
+{
+	"id": 1031,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "玉林",
+	"cityCode": "2104"
+},
+{
+	"id": 1032,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "柳州",
+	"cityCode": "2105"
+},
+{
+	"id": 1033,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "阳朔（桂林）",
+	"cityCode": "2106"
+},
+{
+	"id": 1034,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "贺州",
+	"cityCode": "2107"
+},
+{
+	"id": 1035,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "梧州",
+	"cityCode": "2108"
+},
+{
+	"id": 1036,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "钦州",
+	"cityCode": "2109"
+},
+{
+	"id": 1037,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "贵港",
+	"cityCode": "2111"
+},
+{
+	"id": 1038,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "百色",
+	"cityCode": "2112"
+},
+{
+	"id": 1039,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "防城港",
+	"cityCode": "2113"
+},
+{
+	"id": 1040,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "凤山县",
+	"cityCode": "2115"
+},
+{
+	"id": 1041,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "北流",
+	"cityCode": "2116"
+},
+{
+	"id": 1042,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "来宾",
+	"cityCode": "2118"
+},
+{
+	"id": 1043,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "河池",
+	"cityCode": "2119"
+},
+{
+	"id": 1044,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "巴马",
+	"cityCode": "2120"
+},
+{
+	"id": 1045,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "德保县",
+	"cityCode": "2121"
+},
+{
+	"id": 1046,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "宜州（河池）",
+	"cityCode": "2123"
+},
+{
+	"id": 1047,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "兴安（桂林）",
+	"cityCode": "2124"
+},
+{
+	"id": 1048,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "龙胜（桂林）",
+	"cityCode": "2125"
+},
+{
+	"id": 1049,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "资源（桂林）",
+	"cityCode": "2126"
+},
+{
+	"id": 1050,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "东兴（防城港）",
+	"cityCode": "2127"
+},
+{
+	"id": 1051,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "桂平（贵港）",
+	"cityCode": "2128"
+},
+{
+	"id": 1052,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "涠洲岛（北海）",
+	"cityCode": "2129"
+},
+{
+	"id": 1053,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "崇左",
+	"cityCode": "2130"
+},
+{
+	"id": 1054,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "恭城（桂林）",
+	"cityCode": "2131"
+},
+{
+	"id": 1055,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "大新县（崇左）",
+	"cityCode": "2132"
+},
+{
+	"id": 1056,
+	"country": "中国",
+	"provinceName": "广西",
+	"cityName": "凭祥市（崇左）",
+	"cityCode": "2133"
+},
+{
+	"id": 1057,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "三亚",
+	"cityCode": "2201"
+},
+{
+	"id": 1058,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "海口",
+	"cityCode": "2202"
+},
+{
+	"id": 1059,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "万宁（兴隆）",
+	"cityCode": "2203"
+},
+{
+	"id": 1060,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "琼海（博鳌）",
+	"cityCode": "2206"
+},
+{
+	"id": 1061,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "陵水",
+	"cityCode": "2207"
+},
+{
+	"id": 1062,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "通什",
+	"cityCode": "2208"
+},
+{
+	"id": 1063,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "兴隆",
+	"cityCode": "2211"
+},
+{
+	"id": 1064,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "文昌",
+	"cityCode": "2212"
+},
+{
+	"id": 1065,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "五指山",
+	"cityCode": "2213"
+},
+{
+	"id": 1066,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "保亭（七仙岭）",
+	"cityCode": "2214"
+},
+{
+	"id": 1067,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "定安",
+	"cityCode": "2215"
+},
+{
+	"id": 1068,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "儋州",
+	"cityCode": "2216"
+},
+{
+	"id": 1069,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "东方",
+	"cityCode": "2218"
+},
+{
+	"id": 1070,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "乐东",
+	"cityCode": "2219"
+},
+{
+	"id": 1071,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "博鳌",
+	"cityCode": "2220"
+},
+{
+	"id": 1072,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "七仙岭",
+	"cityCode": "2222"
+},
+{
+	"id": 1073,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "琼中",
+	"cityCode": "2223"
+},
+{
+	"id": 1074,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "澄迈（老城）",
+	"cityCode": "2224"
+},
+{
+	"id": 1075,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "昌江",
+	"cityCode": "2225"
+},
+{
+	"id": 1076,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "屯昌",
+	"cityCode": "2226"
+},
+{
+	"id": 1077,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "临高",
+	"cityCode": "2227"
+},
+{
+	"id": 1078,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "白沙",
+	"cityCode": "2228"
+},
+{
+	"id": 1079,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "三沙市",
+	"cityCode": "2229"
+},
+{
+	"id": 1080,
+	"country": "中国",
+	"provinceName": "海南",
+	"cityName": "黄岩岛",
+	"cityCode": "2230"
+},
+{
+	"id": 1081,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "成都",
+	"cityCode": "2301"
+},
+{
+	"id": 1082,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "绵阳",
+	"cityCode": "2302"
+},
+{
+	"id": 1083,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "乐山",
+	"cityCode": "2303"
+},
+{
+	"id": 1084,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "眉山",
+	"cityCode": "2304"
+},
+{
+	"id": 1085,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "自贡",
+	"cityCode": "2305"
+},
+{
+	"id": 1086,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "雅安",
+	"cityCode": "2306"
+},
+{
+	"id": 1087,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "宜宾",
+	"cityCode": "2308"
+},
+{
+	"id": 1088,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "南充",
+	"cityCode": "2309"
+},
+{
+	"id": 1089,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "峨眉山",
+	"cityCode": "2310"
+},
+{
+	"id": 1090,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "九寨沟",
+	"cityCode": "2311"
+},
+{
+	"id": 1091,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "德阳",
+	"cityCode": "2312"
+},
+{
+	"id": 1092,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "广安",
+	"cityCode": "2313"
+},
+{
+	"id": 1093,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "泸州",
+	"cityCode": "2314"
+},
+{
+	"id": 1094,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "遂宁",
+	"cityCode": "2315"
+},
+{
+	"id": 1095,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "松潘（黄龙,川主寺）",
+	"cityCode": "2316"
+},
+{
+	"id": 1096,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "阆中（南充）",
+	"cityCode": "2317"
+},
+{
+	"id": 1097,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "西昌（凉山州）",
+	"cityCode": "2318"
+},
+{
+	"id": 1098,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "内江",
+	"cityCode": "2319"
+},
+{
+	"id": 1099,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "广元",
+	"cityCode": "2320"
+},
+{
+	"id": 1100,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "攀枝花",
+	"cityCode": "2321"
+},
+{
+	"id": 1101,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "汶川县（阿坝州）",
+	"cityCode": "2322"
+},
+{
+	"id": 1102,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "卧龙",
+	"cityCode": "2323"
+},
+{
+	"id": 1103,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "海螺沟（甘孜州）",
+	"cityCode": "2328"
+},
+{
+	"id": 1104,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "江油（绵阳）",
+	"cityCode": "2329"
+},
+{
+	"id": 1105,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "稻城（甘孜州）",
+	"cityCode": "2330"
+},
+{
+	"id": 1106,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "巴中",
+	"cityCode": "2333"
+},
+{
+	"id": 1107,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "马尔康（阿坝州）",
+	"cityCode": "2334"
+},
+{
+	"id": 1108,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "康定（甘孜州）",
+	"cityCode": "2336"
+},
+{
+	"id": 1109,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "泸定县（甘孜州）",
+	"cityCode": "2337"
+},
+{
+	"id": 1110,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "射洪（遂宁）",
+	"cityCode": "2338"
+},
+{
+	"id": 1111,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "彭州",
+	"cityCode": "2339"
+},
+{
+	"id": 1112,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "达州",
+	"cityCode": "2340"
+},
+{
+	"id": 1113,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "凉山州",
+	"cityCode": "2341"
+},
+{
+	"id": 1114,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "资阳",
+	"cityCode": "2346"
+},
+{
+	"id": 1115,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "西岭雪山（大邑）",
+	"cityCode": "2350"
+},
+{
+	"id": 1116,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "北川县（绵阳）",
+	"cityCode": "2351"
+},
+{
+	"id": 1117,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "简阳（资阳）",
+	"cityCode": "2352"
+},
+{
+	"id": 1118,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "蜀南竹海（宜宾）",
+	"cityCode": "2353"
+},
+{
+	"id": 1119,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "若尔盖（阿坝）",
+	"cityCode": "2354"
+},
+{
+	"id": 1120,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "丹巴县",
+	"cityCode": "2358"
+},
+{
+	"id": 1121,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "茂县（阿坝州）",
+	"cityCode": "2359"
+},
+{
+	"id": 1122,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "红原县（阿坝州）",
+	"cityCode": "2360"
+},
+{
+	"id": 1123,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "康定新都桥（含塔公）",
+	"cityCode": "2361"
+},
+{
+	"id": 1124,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "仁寿（眉山）",
+	"cityCode": "2362"
+},
+{
+	"id": 1125,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "宝兴县（雅安）",
+	"cityCode": "2363"
+},
+{
+	"id": 1126,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "天全县（雅安）",
+	"cityCode": "2364"
+},
+{
+	"id": 1127,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "绵竹（德阳）",
+	"cityCode": "2366"
+},
+{
+	"id": 1128,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "大英（遂宁）",
+	"cityCode": "2367"
+},
+{
+	"id": 1129,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "乡城（甘孜州）",
+	"cityCode": "2368"
+},
+{
+	"id": 1130,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "小金县（阿坝州）",
+	"cityCode": "2369"
+},
+{
+	"id": 1131,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "理县（阿坝州）",
+	"cityCode": "2370"
+},
+{
+	"id": 1132,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "花水湾（大邑）",
+	"cityCode": "2371"
+},
+{
+	"id": 1133,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "大邑（成都）",
+	"cityCode": "2372"
+},
+{
+	"id": 1134,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "温江（成都）",
+	"cityCode": "2373"
+},
+{
+	"id": 1135,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "双流（成都）",
+	"cityCode": "2374"
+},
+{
+	"id": 1136,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "郫县（成都）",
+	"cityCode": "2379"
+},
+{
+	"id": 1137,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "彭州（成都）",
+	"cityCode": "2381"
+},
+{
+	"id": 1138,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "资阳（成都）",
+	"cityCode": "2382"
+},
+{
+	"id": 1139,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "金堂（成都）",
+	"cityCode": "2383"
+},
+{
+	"id": 1140,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "黄龙溪（成都）",
+	"cityCode": "2384"
+},
+{
+	"id": 1141,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "都江堰青城山（成都）",
+	"cityCode": "2385"
+},
+{
+	"id": 1142,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "华阳（成都）",
+	"cityCode": "2386"
+},
+{
+	"id": 1143,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "龙泉（成都）",
+	"cityCode": "2387"
+},
+{
+	"id": 1144,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "喜德县（凉山州）",
+	"cityCode": "2389"
+},
+{
+	"id": 1145,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "中江县",
+	"cityCode": "2390"
+},
+{
+	"id": 1146,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "甘孜州",
+	"cityCode": "2392"
+},
+{
+	"id": 1147,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "黑水县（阿坝州）",
+	"cityCode": "2393"
+},
+{
+	"id": 1148,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "会理县（凉山州）",
+	"cityCode": "2394"
+},
+{
+	"id": 1149,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "阿坝州",
+	"cityCode": "2395"
+},
+{
+	"id": 1150,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "罗江县（德阳）",
+	"cityCode": "2396"
+},
+{
+	"id": 1151,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "上里古镇（雅安）",
+	"cityCode": "2397"
+},
+{
+	"id": 1152,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "德昌县（凉山州）",
+	"cityCode": "2399"
+},
+{
+	"id": 1153,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "会东县（凉山州）",
+	"cityCode": "2400"
+},
+{
+	"id": 1154,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "贵阳",
+	"cityCode": "2401"
+},
+{
+	"id": 1155,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "遵义",
+	"cityCode": "2402"
+},
+{
+	"id": 1156,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "凯里（黔东南州）",
+	"cityCode": "2404"
+},
+{
+	"id": 1157,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "安顺市",
+	"cityCode": "2405"
+},
+{
+	"id": 1158,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "仁怀（遵义）",
+	"cityCode": "2407"
+},
+{
+	"id": 1159,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "荔波（黔南州）",
+	"cityCode": "2411"
+},
+{
+	"id": 1160,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "六盘水",
+	"cityCode": "2412"
+},
+{
+	"id": 1161,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "铜仁",
+	"cityCode": "2413"
+},
+{
+	"id": 1162,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "毕节",
+	"cityCode": "2414"
+},
+{
+	"id": 1163,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "镇远（黔东南州）",
+	"cityCode": "2415"
+},
+{
+	"id": 1164,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "赤水（遵义）",
+	"cityCode": "2420"
+},
+{
+	"id": 1165,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "西江苗寨（黔东南州）",
+	"cityCode": "2427"
+},
+{
+	"id": 1166,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "黔南州",
+	"cityCode": "2430"
+},
+{
+	"id": 1167,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "黔西南州",
+	"cityCode": "2431"
+},
+{
+	"id": 1168,
+	"country": "中国",
+	"provinceName": "贵州",
+	"cityName": "黔东南州",
+	"cityCode": "2432"
+},
+{
+	"id": 1169,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "昆明",
+	"cityCode": "2501"
+},
+{
+	"id": 1170,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "丽江（含束河）",
+	"cityCode": "2503"
+},
+{
+	"id": 1171,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "大理",
+	"cityCode": "2505"
+},
+{
+	"id": 1172,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "香格里拉（迪庆州）",
+	"cityCode": "2506"
+},
+{
+	"id": 1173,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "西双版纳",
+	"cityCode": "2507"
+},
+{
+	"id": 1174,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "保山",
+	"cityCode": "2510"
+},
+{
+	"id": 1175,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "临沧",
+	"cityCode": "2511"
+},
+{
+	"id": 1176,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "腾冲",
+	"cityCode": "2512"
+},
+{
+	"id": 1177,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "文山",
+	"cityCode": "2513"
+},
+{
+	"id": 1178,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "德宏州",
+	"cityCode": "2516"
+},
+{
+	"id": 1179,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "红河州",
+	"cityCode": "2517"
+},
+{
+	"id": 1180,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "楚雄",
+	"cityCode": "2518"
+},
+{
+	"id": 1181,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "德钦（迪庆州）",
+	"cityCode": "2519"
+},
+{
+	"id": 1182,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "瑞丽（德宏州）",
+	"cityCode": "2520"
+},
+{
+	"id": 1183,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "芒市（德宏州）",
+	"cityCode": "2521"
+},
+{
+	"id": 1184,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "曲靖",
+	"cityCode": "2522"
+},
+{
+	"id": 1185,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "玉溪",
+	"cityCode": "2523"
+},
+{
+	"id": 1186,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "泸沽湖",
+	"cityCode": "2524"
+},
+{
+	"id": 1187,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "怒江",
+	"cityCode": "2527"
+},
+{
+	"id": 1188,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "泸西（红河州）",
+	"cityCode": "2528"
+},
+{
+	"id": 1189,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "普洱",
+	"cityCode": "2529"
+},
+{
+	"id": 1190,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "昭通",
+	"cityCode": "2530"
+},
+{
+	"id": 1191,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "宾川",
+	"cityCode": "2534"
+},
+{
+	"id": 1192,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "维西（迪庆州）",
+	"cityCode": "2536"
+},
+{
+	"id": 1193,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "安宁（昆明）",
+	"cityCode": "2537"
+},
+{
+	"id": 1194,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "宜良（昆明）",
+	"cityCode": "2538"
+},
+{
+	"id": 1195,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "呈贡（昆明）",
+	"cityCode": "2540"
+},
+{
+	"id": 1196,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "澄江（玉溪）",
+	"cityCode": "2541"
+},
+{
+	"id": 1197,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "陆良（曲靖）",
+	"cityCode": "2542"
+},
+{
+	"id": 1198,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "罗平（曲靖）",
+	"cityCode": "2543"
+},
+{
+	"id": 1199,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "水富（昭通）",
+	"cityCode": "2544"
+},
+{
+	"id": 1200,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "弥勒（红河州）",
+	"cityCode": "2545"
+},
+{
+	"id": 1201,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "建水（红河州）",
+	"cityCode": "2546"
+},
+{
+	"id": 1202,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "元阳（红河州）",
+	"cityCode": "2547"
+},
+{
+	"id": 1203,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "石屏（红河州）",
+	"cityCode": "2548"
+},
+{
+	"id": 1204,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "富宁（文山）",
+	"cityCode": "2549"
+},
+{
+	"id": 1205,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "河口（红河州）",
+	"cityCode": "2552"
+},
+{
+	"id": 1206,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "蒙自（红河州）",
+	"cityCode": "2553"
+},
+{
+	"id": 1207,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "个旧（红河州）",
+	"cityCode": "2554"
+},
+{
+	"id": 1208,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "嵩明（昆明）",
+	"cityCode": "2555"
+},
+{
+	"id": 1209,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "梁河（德宏州）",
+	"cityCode": "2556"
+},
+{
+	"id": 1210,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "石林（昆明）",
+	"cityCode": "2557"
+},
+{
+	"id": 1211,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "屏边（红河州）",
+	"cityCode": "2558"
+},
+{
+	"id": 1212,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "开远（红河州）",
+	"cityCode": "2559"
+},
+{
+	"id": 1213,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "迪庆州",
+	"cityCode": "2560"
+},
+{
+	"id": 1214,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "绿春（红河州）",
+	"cityCode": "2561"
+},
+{
+	"id": 1215,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "晋宁（昆明）",
+	"cityCode": "2562"
+},
+{
+	"id": 1216,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "永善（昭通）",
+	"cityCode": "2565"
+},
+{
+	"id": 1217,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "禄劝（昆明）",
+	"cityCode": "2566"
+},
+{
+	"id": 1218,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "丘北（文山）",
+	"cityCode": "2567"
+},
+{
+	"id": 1219,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "马龙（曲靖）",
+	"cityCode": "2568"
+},
+{
+	"id": 1220,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "师宗（曲靖）",
+	"cityCode": "2569"
+},
+{
+	"id": 1221,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "会泽（曲靖）",
+	"cityCode": "2570"
+},
+{
+	"id": 1222,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "沾益（曲靖）",
+	"cityCode": "2571"
+},
+{
+	"id": 1223,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "宣威（曲靖）",
+	"cityCode": "2572"
+},
+{
+	"id": 1224,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "富源（曲靖）",
+	"cityCode": "2573"
+},
+{
+	"id": 1225,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "双廊（大理）",
+	"cityCode": "2574"
+},
+{
+	"id": 1226,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "江川（玉溪）",
+	"cityCode": "2575"
+},
+{
+	"id": 1227,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "通海（玉溪）",
+	"cityCode": "2576"
+},
+{
+	"id": 1228,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "巧家县（昭通）",
+	"cityCode": "2577"
+},
+{
+	"id": 1229,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "广南（文山）",
+	"cityCode": "2578"
+},
+{
+	"id": 1230,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "富民（昆明）",
+	"cityCode": "2579"
+},
+{
+	"id": 1231,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "寻甸（昆明）",
+	"cityCode": "2580"
+},
+{
+	"id": 1232,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "东川（昆明）",
+	"cityCode": "2581"
+},
+{
+	"id": 1233,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "普者黑（丘北）",
+	"cityCode": "2582"
+},
+{
+	"id": 1234,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "武定（楚雄）",
+	"cityCode": "2583"
+},
+{
+	"id": 1235,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "禄丰（楚雄）",
+	"cityCode": "2584"
+},
+{
+	"id": 1236,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "元谋（楚雄）",
+	"cityCode": "2585"
+},
+{
+	"id": 1237,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "大姚（楚雄）",
+	"cityCode": "2586"
+},
+{
+	"id": 1238,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "永仁（楚雄）",
+	"cityCode": "2587"
+},
+{
+	"id": 1239,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "姚安（楚雄）",
+	"cityCode": "2588"
+},
+{
+	"id": 1240,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "南华（楚雄）",
+	"cityCode": "2589"
+},
+{
+	"id": 1241,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "新平（玉溪）",
+	"cityCode": "2590"
+},
+{
+	"id": 1242,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "元江（玉溪）",
+	"cityCode": "2591"
+},
+{
+	"id": 1243,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "盈江（德宏州）",
+	"cityCode": "2592"
+},
+{
+	"id": 1244,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "红河县（红河州）",
+	"cityCode": "2593"
+},
+{
+	"id": 1245,
+	"country": "中国",
+	"provinceName": "云南",
+	"cityName": "罗平峰林",
+	"cityCode": "2594"
+},
+{
+	"id": 1246,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "拉萨",
+	"cityCode": "2601"
+},
+{
+	"id": 1247,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "林芝",
+	"cityCode": "2603"
+},
+{
+	"id": 1248,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "日喀则",
+	"cityCode": "2604"
+},
+{
+	"id": 1249,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "昌都",
+	"cityCode": "2606"
+},
+{
+	"id": 1250,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "山南",
+	"cityCode": "2607"
+},
+{
+	"id": 1251,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "那曲",
+	"cityCode": "2609"
+},
+{
+	"id": 1252,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "波密县（林芝）",
+	"cityCode": "2610"
+},
+{
+	"id": 1253,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "阿里",
+	"cityCode": "2611"
+},
+{
+	"id": 1254,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "安多县（那曲）",
+	"cityCode": "2612"
+},
+{
+	"id": 1255,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "芒康",
+	"cityCode": "2613"
+},
+{
+	"id": 1256,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "八宿",
+	"cityCode": "2614"
+},
+{
+	"id": 1257,
+	"country": "中国",
+	"provinceName": "西藏",
+	"cityName": "丹巴藏寨",
+	"cityCode": "2615"
+},
+{
+	"id": 1258,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "西安",
+	"cityCode": "2701"
+},
+{
+	"id": 1259,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "宝鸡",
+	"cityCode": "2702"
+},
+{
+	"id": 1260,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "咸阳",
+	"cityCode": "2703"
+},
+{
+	"id": 1261,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "杨凌区（咸阳）",
+	"cityCode": "2704"
+},
+{
+	"id": 1262,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "延安",
+	"cityCode": "2705"
+},
+{
+	"id": 1263,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "韩城市（渭南）",
+	"cityCode": "2706"
+},
+{
+	"id": 1264,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "汉中",
+	"cityCode": "2707"
+},
+{
+	"id": 1265,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "渭南",
+	"cityCode": "2708"
+},
+{
+	"id": 1266,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林",
+	"cityCode": "2709"
+},
+{
+	"id": 1267,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "华山（渭南华阴市）",
+	"cityCode": "2710"
+},
+{
+	"id": 1268,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林米脂县",
+	"cityCode": "2711"
+},
+{
+	"id": 1269,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "商洛",
+	"cityCode": "2712"
+},
+{
+	"id": 1270,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "铜川",
+	"cityCode": "2713"
+},
+{
+	"id": 1271,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "安康",
+	"cityCode": "2714"
+},
+{
+	"id": 1272,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林靖边县",
+	"cityCode": "2715"
+},
+{
+	"id": 1273,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "延安吴起县",
+	"cityCode": "2718"
+},
+{
+	"id": 1274,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "兴平市（咸阳）",
+	"cityCode": "2721"
+},
+{
+	"id": 1275,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林神木县",
+	"cityCode": "2727"
+},
+{
+	"id": 1276,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "延安洛南县",
+	"cityCode": "2735"
+},
+{
+	"id": 1277,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "延安洛川县",
+	"cityCode": "2736"
+},
+{
+	"id": 1278,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "合阳县（渭南）",
+	"cityCode": "2738"
+},
+{
+	"id": 1279,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "蒲城县（渭南）",
+	"cityCode": "2740"
+},
+{
+	"id": 1280,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "富平县（渭南）",
+	"cityCode": "2742"
+},
+{
+	"id": 1281,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林佳县",
+	"cityCode": "2743"
+},
+{
+	"id": 1282,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林子洲县",
+	"cityCode": "2744"
+},
+{
+	"id": 1283,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林府谷县",
+	"cityCode": "2745"
+},
+{
+	"id": 1284,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林横山县",
+	"cityCode": "2746"
+},
+{
+	"id": 1285,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林定边县",
+	"cityCode": "2747"
+},
+{
+	"id": 1286,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "榆林绥德县",
+	"cityCode": "2748"
+},
+{
+	"id": 1287,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "延安宜川县",
+	"cityCode": "2749"
+},
+{
+	"id": 1288,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "商南（商洛）",
+	"cityCode": "2753"
+},
+{
+	"id": 1289,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "洛南（商洛）",
+	"cityCode": "2763"
+},
+{
+	"id": 1290,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "山阳（商洛）",
+	"cityCode": "2764"
+},
+{
+	"id": 1291,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "镇安（商洛）",
+	"cityCode": "2765"
+},
+{
+	"id": 1292,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "柞水（商洛）",
+	"cityCode": "2766"
+},
+{
+	"id": 1293,
+	"country": "中国",
+	"provinceName": "陕西",
+	"cityName": "丹凤（商洛）",
+	"cityCode": "2767"
+},
+{
+	"id": 1294,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "兰州",
+	"cityCode": "2801"
+},
+{
+	"id": 1295,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "嘉峪关",
+	"cityCode": "2802"
+},
+{
+	"id": 1296,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "敦煌",
+	"cityCode": "2803"
+},
+{
+	"id": 1297,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "张掖",
+	"cityCode": "2804"
+},
+{
+	"id": 1298,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "天水",
+	"cityCode": "2805"
+},
+{
+	"id": 1299,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "酒泉",
+	"cityCode": "2806"
+},
+{
+	"id": 1300,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "白银",
+	"cityCode": "2807"
+},
+{
+	"id": 1301,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "武威",
+	"cityCode": "2808"
+},
+{
+	"id": 1302,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "平凉",
+	"cityCode": "2809"
+},
+{
+	"id": 1303,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "金昌",
+	"cityCode": "2810"
+},
+{
+	"id": 1304,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "夏河（甘南）",
+	"cityCode": "2811"
+},
+{
+	"id": 1305,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "甘南",
+	"cityCode": "2812"
+},
+{
+	"id": 1306,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "庆阳",
+	"cityCode": "2813"
+},
+{
+	"id": 1307,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "迭部县（甘南）",
+	"cityCode": "2814"
+},
+{
+	"id": 1308,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "瓜州县（酒泉）",
+	"cityCode": "2815"
+},
+{
+	"id": 1309,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "武都县（陇南）",
+	"cityCode": "2816"
+},
+{
+	"id": 1310,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "陇南市",
+	"cityCode": "2817"
+},
+{
+	"id": 1311,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "康乐县（临夏）",
+	"cityCode": "2818"
+},
+{
+	"id": 1312,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "临夏",
+	"cityCode": "2819"
+},
+{
+	"id": 1313,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "合作（甘南）",
+	"cityCode": "2820"
+},
+{
+	"id": 1314,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "定西市",
+	"cityCode": "2821"
+},
+{
+	"id": 1315,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "夏河市（甘南）",
+	"cityCode": "2822"
+},
+{
+	"id": 1316,
+	"country": "中国",
+	"provinceName": "甘肃",
+	"cityName": "玉门市（酒泉）",
+	"cityCode": "2823"
+},
+{
+	"id": 1317,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "银川",
+	"cityCode": "2901"
+},
+{
+	"id": 1318,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "石嘴山",
+	"cityCode": "2902"
+},
+{
+	"id": 1319,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "吴忠",
+	"cityCode": "2903"
+},
+{
+	"id": 1320,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "中卫",
+	"cityCode": "2904"
+},
+{
+	"id": 1321,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "固原",
+	"cityCode": "2905"
+},
+{
+	"id": 1322,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "灵武",
+	"cityCode": "2906"
+},
+{
+	"id": 1323,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "中宁县",
+	"cityCode": "2907"
+},
+{
+	"id": 1324,
+	"country": "中国",
+	"provinceName": "宁夏",
+	"cityName": "贺兰县",
+	"cityCode": "2909"
+},
+{
+	"id": 1325,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "西宁",
+	"cityCode": "3001"
+},
+{
+	"id": 1326,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "青海湖",
+	"cityCode": "3002"
+},
+{
+	"id": 1327,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "格尔木",
+	"cityCode": "3003"
+},
+{
+	"id": 1328,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "德令哈",
+	"cityCode": "3004"
+},
+{
+	"id": 1329,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "玉树藏族自治州",
+	"cityCode": "3005"
+},
+{
+	"id": 1330,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "贵德县",
+	"cityCode": "3006"
+},
+{
+	"id": 1331,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "湟中县",
+	"cityCode": "3007"
+},
+{
+	"id": 1332,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "海晏",
+	"cityCode": "3008"
+},
+{
+	"id": 1333,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "共和县",
+	"cityCode": "3009"
+},
+{
+	"id": 1334,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "黄南藏族自治州",
+	"cityCode": "3010"
+},
+{
+	"id": 1335,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "平安县",
+	"cityCode": "3011"
+},
+{
+	"id": 1336,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "海北藏族自治州",
+	"cityCode": "3012"
+},
+{
+	"id": 1337,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "祁连县",
+	"cityCode": "3013"
+},
+{
+	"id": 1338,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "海西蒙古族藏族自治州",
+	"cityCode": "3014"
+},
+{
+	"id": 1339,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "海南藏族自治州",
+	"cityCode": "3015"
+},
+{
+	"id": 1340,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "海东市",
+	"cityCode": "3016"
+},
+{
+	"id": 1341,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "互助县",
+	"cityCode": "3017"
+},
+{
+	"id": 1342,
+	"country": "中国",
+	"provinceName": "青海",
+	"cityName": "果洛藏族自治州",
+	"cityCode": "3018"
+},
+{
+	"id": 1343,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "乌鲁木齐",
+	"cityCode": "3101"
+},
+{
+	"id": 1344,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "克拉玛依",
+	"cityCode": "3102"
+},
+{
+	"id": 1345,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "伊犁",
+	"cityCode": "3103"
+},
+{
+	"id": 1346,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "库尔勒",
+	"cityCode": "3104"
+},
+{
+	"id": 1347,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "鄯善",
+	"cityCode": "3105"
+},
+{
+	"id": 1348,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "伊宁",
+	"cityCode": "3106"
+},
+{
+	"id": 1349,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "石河子",
+	"cityCode": "3107"
+},
+{
+	"id": 1350,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "吐鲁番",
+	"cityCode": "3108"
+},
+{
+	"id": 1351,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿克苏",
+	"cityCode": "3109"
+},
+{
+	"id": 1352,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "喀纳斯",
+	"cityCode": "3110"
+},
+{
+	"id": 1353,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "喀什",
+	"cityCode": "3111"
+},
+{
+	"id": 1354,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "奎屯",
+	"cityCode": "3112"
+},
+{
+	"id": 1355,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "哈密",
+	"cityCode": "3113"
+},
+{
+	"id": 1356,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "塔什库尔干",
+	"cityCode": "3114"
+},
+{
+	"id": 1357,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "昌吉",
+	"cityCode": "3115"
+},
+{
+	"id": 1358,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "博尔塔拉",
+	"cityCode": "3116"
+},
+{
+	"id": 1359,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "博乐",
+	"cityCode": "3117"
+},
+{
+	"id": 1360,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿勒泰",
+	"cityCode": "3118"
+},
+{
+	"id": 1361,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "鄯善县",
+	"cityCode": "3119"
+},
+{
+	"id": 1362,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "呼图壁县",
+	"cityCode": "3120"
+},
+{
+	"id": 1363,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "和田",
+	"cityCode": "3121"
+},
+{
+	"id": 1364,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "布尔津县",
+	"cityCode": "3122"
+},
+{
+	"id": 1365,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "布尔津",
+	"cityCode": "3123"
+},
+{
+	"id": 1366,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "吉木乃县",
+	"cityCode": "3124"
+},
+{
+	"id": 1367,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "木垒县",
+	"cityCode": "3125"
+},
+{
+	"id": 1368,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿合奇县",
+	"cityCode": "3126"
+},
+{
+	"id": 1369,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "米泉",
+	"cityCode": "3127"
+},
+{
+	"id": 1370,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "塔城",
+	"cityCode": "3128"
+},
+{
+	"id": 1371,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "五家渠",
+	"cityCode": "3129"
+},
+{
+	"id": 1372,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿拉尔",
+	"cityCode": "3130"
+},
+{
+	"id": 1373,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "巴音郭楞",
+	"cityCode": "3131"
+},
+{
+	"id": 1374,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿图什",
+	"cityCode": "3132"
+},
+{
+	"id": 1375,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "和静县",
+	"cityCode": "3133"
+},
+{
+	"id": 1376,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "奇台县",
+	"cityCode": "3134"
+},
+{
+	"id": 1377,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阜康市",
+	"cityCode": "3135"
+},
+{
+	"id": 1378,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "北屯市",
+	"cityCode": "3136"
+},
+{
+	"id": 1379,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "富蕴县",
+	"cityCode": "3137"
+},
+{
+	"id": 1380,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "轮台县",
+	"cityCode": "3138"
+},
+{
+	"id": 1381,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "乌苏市",
+	"cityCode": "3139"
+},
+{
+	"id": 1382,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "沙湾县",
+	"cityCode": "3140"
+},
+{
+	"id": 1383,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "福海县",
+	"cityCode": "3141"
+},
+{
+	"id": 1384,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "青河县",
+	"cityCode": "3142"
+},
+{
+	"id": 1385,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "特克斯县",
+	"cityCode": "3143"
+},
+{
+	"id": 1386,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "尼勒克县",
+	"cityCode": "3144"
+},
+{
+	"id": 1387,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "禾木",
+	"cityCode": "3145"
+},
+{
+	"id": 1388,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "那拉提",
+	"cityCode": "3146"
+},
+{
+	"id": 1389,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "库车",
+	"cityCode": "3147"
+},
+{
+	"id": 1390,
+	"country": "中国",
+	"provinceName": "香港",
+	"cityName": "香港",
+	"cityCode": "3201"
+},
+{
+	"id": 1391,
+	"country": "中国",
+	"provinceName": "香港",
+	"cityName": "迪士尼",
+	"cityCode": "3203"
+},
+{
+	"id": 1392,
+	"country": "中国",
+	"provinceName": "香港",
+	"cityName": "维多利亚公园",
+	"cityCode": "3206"
+},
+{
+	"id": 1393,
+	"country": "中国",
+	"provinceName": "香港",
+	"cityName": "三栋屋博物馆",
+	"cityCode": "3207"
+},
+{
+	"id": 1394,
+	"country": "中国",
+	"provinceName": "澳门",
+	"cityName": "澳门",
+	"cityCode": "3301"
+},
+{
+	"id": 1395,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "台北（台湾）",
+	"cityCode": "3401"
+},
+{
+	"id": 1396,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "高雄（台湾）",
+	"cityCode": "3402"
+},
+{
+	"id": 1397,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "台中（台湾）",
+	"cityCode": "3403"
+},
+{
+	"id": 1398,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "屏东（台湾）",
+	"cityCode": "3404"
+},
+{
+	"id": 1399,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "基隆（台湾）",
+	"cityCode": "3406"
+},
+{
+	"id": 1400,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "桃园（台湾）",
+	"cityCode": "3407"
+},
+{
+	"id": 1401,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "新竹（台湾）",
+	"cityCode": "3408"
+},
+{
+	"id": 1402,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "苗栗（台湾）",
+	"cityCode": "3409"
+},
+{
+	"id": 1403,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "彰化（台湾）",
+	"cityCode": "3410"
+},
+{
+	"id": 1404,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "南投（台湾）",
+	"cityCode": "3411"
+},
+{
+	"id": 1405,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "云林（台湾）",
+	"cityCode": "3412"
+},
+{
+	"id": 1406,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "嘉义（台湾）",
+	"cityCode": "3413"
+},
+{
+	"id": 1407,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "台南（台湾）",
+	"cityCode": "3414"
+},
+{
+	"id": 1408,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "宜兰（台湾）",
+	"cityCode": "3415"
+},
+{
+	"id": 1409,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "花莲（台湾）",
+	"cityCode": "3416"
+},
+{
+	"id": 1410,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "台东（台湾）",
+	"cityCode": "3417"
+},
+{
+	"id": 1411,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "澎湖（台湾）",
+	"cityCode": "3418"
+},
+{
+	"id": 1412,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "金门（台湾）",
+	"cityCode": "3419"
+},
+{
+	"id": 1413,
+	"country": "中国",
+	"provinceName": "台湾",
+	"cityName": "马祖（台湾）",
+	"cityCode": "3420"
+},
+{
+	"id": 1414,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "昌邑（潍坊）",
+	"cityCode": "3502"
+},
+{
+	"id": 1415,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "临朐（潍坊）",
+	"cityCode": "3503"
+},
+{
+	"id": 1416,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "鄄城（菏泽)",
+	"cityCode": "3504"
+},
+{
+	"id": 1417,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "鱼台（济宁）",
+	"cityCode": "3505"
+},
+{
+	"id": 1418,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "嘉祥（济宁）",
+	"cityCode": "3506"
+},
+{
+	"id": 1419,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "定陶（菏泽）",
+	"cityCode": "3507"
+},
+{
+	"id": 1420,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "成武（菏泽）",
+	"cityCode": "3508"
+},
+{
+	"id": 1421,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "武城（德州）",
+	"cityCode": "3509"
+},
+{
+	"id": 1422,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "沾化（滨州）",
+	"cityCode": "3510"
+},
+{
+	"id": 1423,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "费县（临沂）",
+	"cityCode": "3511"
+},
+{
+	"id": 1424,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "莒县（日照）",
+	"cityCode": "3512"
+},
+{
+	"id": 1425,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "陵县（德州）",
+	"cityCode": "3513"
+},
+{
+	"id": 1426,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "平阴（济南）",
+	"cityCode": "3514"
+},
+{
+	"id": 1427,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "商河（济南）",
+	"cityCode": "3515"
+},
+{
+	"id": 1428,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "桓台（淄博）",
+	"cityCode": "3516"
+},
+{
+	"id": 1429,
+	"country": "中国",
+	"provinceName": "山东",
+	"cityName": "高青（淄博）",
+	"cityCode": "3517"
+},
+{
+	"id": 1430,
+	"country": "中国",
+	"provinceName": "首尔特别市",
+	"cityName": "首尔",
+	"cityCode": "3800"
+},
+{
+	"id": 1431,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "清苑（保定）",
+	"cityCode": "5308"
+},
+{
+	"id": 1432,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "易县（保定）",
+	"cityCode": "5309"
+},
+{
+	"id": 1433,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "定兴（保定）",
+	"cityCode": "5310"
+},
+{
+	"id": 1434,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "容城（保定）",
+	"cityCode": "5311"
+},
+{
+	"id": 1435,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "平泉（承德）",
+	"cityCode": "5312"
+},
+{
+	"id": 1436,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "宁晋（邢台）",
+	"cityCode": "5313"
+},
+{
+	"id": 1437,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "行唐（石家庄）",
+	"cityCode": "5314"
+},
+{
+	"id": 1438,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "灵寿（石家庄）",
+	"cityCode": "5315"
+},
+{
+	"id": 1439,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "高邑（石家庄）",
+	"cityCode": "5316"
+},
+{
+	"id": 1440,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "赞皇（石家庄）",
+	"cityCode": "5317"
+},
+{
+	"id": 1441,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "南皮（沧州）",
+	"cityCode": "5318"
+},
+{
+	"id": 1442,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "赤城（张家口）",
+	"cityCode": "5319"
+},
+{
+	"id": 1443,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "滦南（唐山）",
+	"cityCode": "5320"
+},
+{
+	"id": 1444,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "枣强（衡水）",
+	"cityCode": "5321"
+},
+{
+	"id": 1445,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "武邑（衡水）",
+	"cityCode": "5322"
+},
+{
+	"id": 1446,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "武强（衡水）",
+	"cityCode": "5323"
+},
+{
+	"id": 1447,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "饶阳（衡水）",
+	"cityCode": "5324"
+},
+{
+	"id": 1448,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "深州（衡水）",
+	"cityCode": "5325"
+},
+{
+	"id": 1449,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "滦平（承德）",
+	"cityCode": "5326"
+},
+{
+	"id": 1450,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "承德县（承德）",
+	"cityCode": "5327"
+},
+{
+	"id": 1451,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "万全（张家口）",
+	"cityCode": "5328"
+},
+{
+	"id": 1452,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "东光（沧州）",
+	"cityCode": "5329"
+},
+{
+	"id": 1453,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "海兴（沧州）",
+	"cityCode": "5330"
+},
+{
+	"id": 1454,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "井陉（石家庄）",
+	"cityCode": "5331"
+},
+{
+	"id": 1455,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "肥乡（邯郸）",
+	"cityCode": "5332"
+},
+{
+	"id": 1456,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "威县（邢台）",
+	"cityCode": "5333"
+},
+{
+	"id": 1457,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "临漳（邯郸）",
+	"cityCode": "5334"
+},
+{
+	"id": 1458,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "鸡泽（邯郸）",
+	"cityCode": "5335"
+},
+{
+	"id": 1459,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "大城（廊坊）",
+	"cityCode": "5336"
+},
+{
+	"id": 1460,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "馆陶（邯郸）",
+	"cityCode": "5337"
+},
+{
+	"id": 1461,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "广平（邯郸）",
+	"cityCode": "5338"
+},
+{
+	"id": 1462,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "成安（邯郸）",
+	"cityCode": "5339"
+},
+{
+	"id": 1463,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "魏县（邯郸）",
+	"cityCode": "5340"
+},
+{
+	"id": 1464,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "磁县（邯郸）",
+	"cityCode": "5341"
+},
+{
+	"id": 1465,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "南宫（邢台）",
+	"cityCode": "5342"
+},
+{
+	"id": 1466,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "柏乡（邢台）",
+	"cityCode": "5343"
+},
+{
+	"id": 1467,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "任县（邢台）",
+	"cityCode": "5344"
+},
+{
+	"id": 1468,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "临城（邢台）",
+	"cityCode": "5345"
+},
+{
+	"id": 1469,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "临西（邢台）",
+	"cityCode": "5346"
+},
+{
+	"id": 1470,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "内丘（邢台）",
+	"cityCode": "5347"
+},
+{
+	"id": 1471,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "平乡（邢台）",
+	"cityCode": "5348"
+},
+{
+	"id": 1472,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "巨鹿（邢台）",
+	"cityCode": "5349"
+},
+{
+	"id": 1473,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "南和（邢台）",
+	"cityCode": "5350"
+},
+{
+	"id": 1474,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "望都（保定）",
+	"cityCode": "5351"
+},
+{
+	"id": 1475,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "博野（保定）",
+	"cityCode": "5352"
+},
+{
+	"id": 1476,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "隆化（承德）",
+	"cityCode": "5353"
+},
+{
+	"id": 1477,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "广宗（邢台）",
+	"cityCode": "5355"
+},
+{
+	"id": 1478,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "孟村（沧州）",
+	"cityCode": "5366"
+},
+{
+	"id": 1479,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "顺平（保定）",
+	"cityCode": "5367"
+},
+{
+	"id": 1480,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "康保县（张家口）",
+	"cityCode": "5368"
+},
+{
+	"id": 1481,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "蠡县（保定）",
+	"cityCode": "5369"
+},
+{
+	"id": 1482,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "朱家尖（舟山）",
+	"cityCode": "5372"
+},
+{
+	"id": 1483,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "枸杞岛（舟山嵊泗）",
+	"cityCode": "5373"
+},
+{
+	"id": 1484,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "围场满族蒙古族自治县（承德）",
+	"cityCode": "5374"
+},
+{
+	"id": 1485,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "文成（温州）",
+	"cityCode": "5375"
+},
+{
+	"id": 1486,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "西平（驻马店）",
+	"cityCode": "5376"
+},
+{
+	"id": 1487,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "平舆（驻马店）",
+	"cityCode": "5377"
+},
+{
+	"id": 1488,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "确山（驻马店）",
+	"cityCode": "5378"
+},
+{
+	"id": 1489,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "深泽（石家庄）",
+	"cityCode": "5379"
+},
+{
+	"id": 1490,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "淇县（鹤壁）",
+	"cityCode": "5380"
+},
+{
+	"id": 1491,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "吴桥（沧州）",
+	"cityCode": "5381"
+},
+{
+	"id": 1492,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "上蔡（驻马店）",
+	"cityCode": "5382"
+},
+{
+	"id": 1493,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "汝南（驻马店）",
+	"cityCode": "5383"
+},
+{
+	"id": 1494,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "邱县（邯郸）",
+	"cityCode": "5384"
+},
+{
+	"id": 1495,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "新县（信阳）",
+	"cityCode": "5385"
+},
+{
+	"id": 1496,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "太康（周口）",
+	"cityCode": "5386"
+},
+{
+	"id": 1497,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "沈丘（周口）",
+	"cityCode": "5387"
+},
+{
+	"id": 1498,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "郸城（周口）",
+	"cityCode": "5388"
+},
+{
+	"id": 1499,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "艺龙测试",
+	"cityCode": "5389"
+},
+{
+	"id": 1500,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "襄城（许昌）",
+	"cityCode": "5390"
+},
+{
+	"id": 1501,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "新蔡（驻马店）",
+	"cityCode": "5391"
+},
+{
+	"id": 1502,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "陕县（三门峡）",
+	"cityCode": "5392"
+},
+{
+	"id": 1503,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "正阳（驻马店）",
+	"cityCode": "5393"
+},
+{
+	"id": 1504,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "图木舒克",
+	"cityCode": "5394"
+},
+{
+	"id": 1505,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿拉尔市",
+	"cityCode": "5395"
+},
+{
+	"id": 1506,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "卢氏（三门峡）",
+	"cityCode": "5396"
+},
+{
+	"id": 1507,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "延津（新乡）",
+	"cityCode": "5397"
+},
+{
+	"id": 1508,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "封丘（新乡）",
+	"cityCode": "5398"
+},
+{
+	"id": 1509,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "郏县（平顶山）",
+	"cityCode": "5399"
+},
+{
+	"id": 1510,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "叶县（平顶山）",
+	"cityCode": "5400"
+},
+{
+	"id": 1511,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "西华（周口）",
+	"cityCode": "5401"
+},
+{
+	"id": 1512,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "扶沟（周口）",
+	"cityCode": "5402"
+},
+{
+	"id": 1513,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "商水（周口）",
+	"cityCode": "5403"
+},
+{
+	"id": 1514,
+	"country": "中国",
+	"provinceName": "安徽",
+	"cityName": "来安（滁州）",
+	"cityCode": "5406"
+},
+{
+	"id": 1515,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "普格县（凉山州）",
+	"cityCode": "5407"
+},
+{
+	"id": 1516,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "金川县（阿坝州）",
+	"cityCode": "5408"
+},
+{
+	"id": 1517,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "新河（邢台）",
+	"cityCode": "5409"
+},
+{
+	"id": 1518,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "哈巴河",
+	"cityCode": "5410"
+},
+{
+	"id": 1519,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "溆浦县（怀化）",
+	"cityCode": "5411"
+},
+{
+	"id": 1520,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "通道县（怀化）",
+	"cityCode": "5417"
+},
+{
+	"id": 1521,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "洪江（怀化）",
+	"cityCode": "5418"
+},
+{
+	"id": 1522,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "泸溪县（湘西）",
+	"cityCode": "5419"
+},
+{
+	"id": 1523,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "保靖县（湘西）",
+	"cityCode": "5421"
+},
+{
+	"id": 1524,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "永顺县（湘西）",
+	"cityCode": "5423"
+},
+{
+	"id": 1525,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "衡阳县（衡阳）",
+	"cityCode": "5429"
+},
+{
+	"id": 1526,
+	"country": "中国",
+	"provinceName": "湖南",
+	"cityName": "南岳（衡阳）",
+	"cityCode": "5431"
+},
+{
+	"id": 1527,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "桃花岛（舟山）",
+	"cityCode": "5432"
+},
+{
+	"id": 1528,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "东极岛（舟山）",
+	"cityCode": "5433"
+},
+{
+	"id": 1529,
+	"country": "中国",
+	"provinceName": "浙江",
+	"cityName": "庆元（丽水）",
+	"cityCode": "5434"
+},
+{
+	"id": 1530,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "下花园（张家口）",
+	"cityCode": "5435"
+},
+{
+	"id": 1531,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "阳原（张家口）",
+	"cityCode": "5436"
+},
+{
+	"id": 1532,
+	"country": "中国",
+	"provinceName": "河北",
+	"cityName": "怀安（张家口）",
+	"cityCode": "5437"
+},
+{
+	"id": 1533,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "汤阴（安阳）",
+	"cityCode": "5438"
+},
+{
+	"id": 1534,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "兴文石海（宜宾）",
+	"cityCode": "5439"
+},
+{
+	"id": 1535,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "李庄古镇（宜宾）",
+	"cityCode": "5440"
+},
+{
+	"id": 1536,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "昭苏县（伊犁）",
+	"cityCode": "5441"
+},
+{
+	"id": 1537,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "霍城县（伊犁）",
+	"cityCode": "5442"
+},
+{
+	"id": 1538,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "霍尔果斯（伊犁）",
+	"cityCode": "5443"
+},
+{
+	"id": 1539,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "新源县（伊犁）",
+	"cityCode": "5444"
+},
+{
+	"id": 1540,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "玛纳斯县",
+	"cityCode": "5445"
+},
+{
+	"id": 1541,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "吉木萨尔县（昌吉）",
+	"cityCode": "5446"
+},
+{
+	"id": 1542,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "八钢",
+	"cityCode": "5447"
+},
+{
+	"id": 1543,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "博湖",
+	"cityCode": "5448"
+},
+{
+	"id": 1544,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "和静",
+	"cityCode": "5449"
+},
+{
+	"id": 1545,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "和硕",
+	"cityCode": "5450"
+},
+{
+	"id": 1546,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "焉耆",
+	"cityCode": "5451"
+},
+{
+	"id": 1547,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "若羌",
+	"cityCode": "5452"
+},
+{
+	"id": 1548,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "尉犁",
+	"cityCode": "5453"
+},
+{
+	"id": 1549,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "且末",
+	"cityCode": "5454"
+},
+{
+	"id": 1550,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "伊吾县",
+	"cityCode": "5455"
+},
+{
+	"id": 1551,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "巴里坤",
+	"cityCode": "5456"
+},
+{
+	"id": 1552,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "新和",
+	"cityCode": "5457"
+},
+{
+	"id": 1553,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "拜城",
+	"cityCode": "5458"
+},
+{
+	"id": 1554,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "温宿",
+	"cityCode": "5459"
+},
+{
+	"id": 1555,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "库车县",
+	"cityCode": "5460"
+},
+{
+	"id": 1556,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "沙雅",
+	"cityCode": "5461"
+},
+{
+	"id": 1557,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "乌什",
+	"cityCode": "5462"
+},
+{
+	"id": 1558,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "柯坪",
+	"cityCode": "5463"
+},
+{
+	"id": 1559,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿瓦提",
+	"cityCode": "5464"
+},
+{
+	"id": 1560,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "岳普湖",
+	"cityCode": "5465"
+},
+{
+	"id": 1561,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "叶城",
+	"cityCode": "5466"
+},
+{
+	"id": 1562,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "麦盖提",
+	"cityCode": "5467"
+},
+{
+	"id": 1563,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "巴楚",
+	"cityCode": "5468"
+},
+{
+	"id": 1564,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "伽师",
+	"cityCode": "5469"
+},
+{
+	"id": 1565,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "疏勒",
+	"cityCode": "5470"
+},
+{
+	"id": 1566,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "疏附",
+	"cityCode": "5471"
+},
+{
+	"id": 1567,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "莎车",
+	"cityCode": "5472"
+},
+{
+	"id": 1568,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "英吉沙",
+	"cityCode": "5473"
+},
+{
+	"id": 1569,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "泽普",
+	"cityCode": "5474"
+},
+{
+	"id": 1570,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "乌恰县",
+	"cityCode": "5475"
+},
+{
+	"id": 1571,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "阿克陶",
+	"cityCode": "5476"
+},
+{
+	"id": 1572,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "托克逊",
+	"cityCode": "5477"
+},
+{
+	"id": 1573,
+	"country": "中国",
+	"provinceName": "新疆",
+	"cityName": "图木舒克市",
+	"cityCode": "5478"
+},
+{
+	"id": 1574,
+	"country": "中国",
+	"provinceName": "河南",
+	"cityName": "淮滨市",
+	"cityCode": "5489"
+},
+{
+	"id": 1575,
+	"country": "中国",
+	"provinceName": "山西",
+	"cityName": "壶口瀑布",
+	"cityCode": "5493"
+},
+{
+	"id": 1576,
+	"country": "中国",
+	"provinceName": "四川",
+	"cityName": "都江堰",
+	"cityCode": "5495"
+}]

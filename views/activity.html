@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<meta http-equiv="pragma" content="no-cache">
+		<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+		<meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT">
+		<title>活动页</title>
+		<link rel="stylesheet" type="text/css" href="/public/css/common.css"/>
+		<script src="/public/js/lakala.js" type="text/javascript" charset="utf-8"></script>
+		 <script src="/public/js/jquery-2.1.0.js" type="text/javascript" charset="utf-8"></script>
+		<script src="https://cdn.bootcss.com/fastclick/1.0.6/fastclick.js"></script>
+		<style type="text/css">
+			body{
+				max-height:99999px;
+				min-height:1px;
+			}
+			.background{
+			    position:relative;
+				width:100%;
+				height: 100%;
+				background: url(/public/img/activity/background.jpg?v=20171017) no-repeat top center;
+				background-size: cover;
+				font-family:'Microsoft YaHei';
+				overflow: hidden;
+			}
+			.bottom{
+				position:fixed;
+				width:6.02rem;
+				margin:0 auto;
+				padding:0 0.44rem;
+				left: 2%;
+    			right: 2%;
+    			bottom:0;
+				background: #bbd655;
+				border-top-left-radius:15px;
+				border-top-right-radius:15px;
+			}
+			.header{
+				width:100%;
+				text-align:center;
+				color:white;
+				font-size:0.4rem;
+				font-weight:bold;
+				margin:0.4rem 0;
+			}
+			.contentText{
+				padding-top:0.1rem;
+				min-height:0.1rem;
+				overflow:hidden;
+				font-size:0.24rem;
+			}
+			.bot{
+				width:0.1rem;
+				height:0.1rem;
+				background:white;
+				border-radius:45px;
+				margin:0.1rem 0.2rem 0 0;
+			}
+			.contRight{
+				width:5.72rem;
+				font-size:12px;
+				color:white;
+				line-height:18px;
+			}
+			.contRight2{
+				margin:0.1rem 0 0 0.55rem;
+			}
+			
+			.bottomBtn{
+				display:block;
+				width: 85%;
+			    height: 0.85rem;
+			    line-height: 0.85rem;
+				text-align:center;
+				background:#eb9122;
+				color:white;
+				margin:0.4rem auto;
+				border-radius:30px;
+				font-size:0.36rem;
+  				
+			} 
+			@media screen and (max-width: 330px) {
+			    .contentText {
+			        font-size:0.2rem;
+			    }
+			} 
+			@media screen and (min-width: 414px) {
+			    .contentText {
+			        font-size:0.21rem;
+			    }
+			} 
+			
+			
+		</style>
+	</head>
+	<body>
+		<div class="background">
+			<!-- <div class="top"></div> -->
+			<div class="bottom">
+						<div class="header">活动规则</div>
+						<div class="contentText">
+							<div class="bot left"></div>
+							<div class="contRight left">
+								活动期间购买：标有“保险立减”的机票产品,下单时选择保险,将赠送价值20元的航意险产品（每位乘机人<br />限赠1份）。
+							</div>
+						</div>
+						<div class="contentText">
+							<div class="bot left"></div>
+							<div class="contRight left">
+								航意险产品为：20元保当次航班的航意险产品,保额：<br />80万。
+							</div>
+						</div>
+						<div class="contentText">
+							<div class="bot left"></div>
+							<div class="contRight left">
+								如未选择保险,即视为放弃此赠送保险。
+							</div>
+						</div>
+						<div class="contentText">
+							<div class="bot left"></div>
+							<div class="contRight left">
+								赠送的保险不能单独退保,退票后该保险即作废,不享受保障。
+							</div>
+						</div>
+						<div class="contentText">
+							<div class="bot left"></div>
+							<div class="contRight left">
+								所赠保险,不提供保险报销凭证。
+							</div>
+						</div> 
+						<div class="contentText">
+							<div class="bot left"></div>
+							<div class="contRight left">
+								活动时间：2017年10月18日-2017年10月24日。
+							</div>
+						</div> 
+						<div class="contentText">
+							<div class="bot left"></div>
+							<div class="contRight left">
+								本活动在法律允许范围内,最终解释权归拉卡拉及机票服务提供商伊翔运达所有。
+							</div>
+						</div> 
+					<a class="bottomBtn" href="koalajs://openbus?tag=planticket">立即抢购</a>
+			</div>
+			
+		</div>
+	</body>
+	<script>
+		//根据屏幕分辨率  定义font-size大小
+		$(function(){
+		
+			//1.首次加载的时候 调用动态设置rem的api
+			setRemSize();
+						
+			//2.当用户企图更改浏览器宽度 自动获取屏幕宽度 在计算rem赋值给根元素里面的font-size
+			window.addEventListener("resize",setRemSize,false);
+			function setRemSize(){
+				//1.在任何尺寸中都可以获得rem值
+				//获得屏幕的宽度----获取到了rem值    rem=屏幕宽度/6.4+"px"
+				var _clientWidth=100 *(document.documentElement.clientWidth/750)+"px";
+				//console.log(_clientWidth);
+				//将得到的rem值赋值给根元素的font-size
+				document.documentElement.style.fontSize=_clientWidth;
+			};
+			
+			//fastclick 解决click300ms延迟
+			FastClick.attach(document.body);
+			
+		});
+	</script>
+</html>
